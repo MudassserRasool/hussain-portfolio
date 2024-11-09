@@ -52,9 +52,9 @@
       "title": "Who we are",
       "heading": {
         "black": "About",
-        "blue": "QUHDOCK"
+        "blue": "ZT"
       },
-      "description": "QUHDOCK is a high-end software development and implementation company based in the USA. We specialize in creating cutting-edge software solutions that enhance efficiency, drive growth, and elevate user experiences. Our team combines technical expertise with industry insights to provide comprehensive services, including software development, system integration, and ongoing support. Whether you're a startup looking to launch your first product or an established enterprise seeking to optimize your operations, QUHDOCK is here to help you succeed."
+      "description": "ZT is a high-end software development and implementation company based in the USA. We specialize in creating cutting-edge software solutions that enhance efficiency, drive growth, and elevate user experiences. Our team combines technical expertise with industry insights to provide comprehensive services, including software development, system integration, and ongoing support. Whether you're a startup looking to launch your first product or an established enterprise seeking to optimize your operations, ZT is here to help you succeed."
     },
     "ourServices": {
       "heading": {
@@ -106,7 +106,7 @@
         "white": "Our",
         "blue": "Appproach"
       },
-      "description": "We offer cutting-edge website and mobile app development services for enterprises and businesses of all sizes. At Quhdock, we tailor solutions to meet each client's unique requirements from the initial concept phase to final delivery. Our process is designed to ensure smooth, continuous support and upgrades throughout the project's lifecycle.",
+      "description": "We offer cutting-edge website and mobile app development services for enterprises and businesses of all sizes. At ZT, we tailor solutions to meet each client's unique requirements from the initial concept phase to final delivery. Our process is designed to ensure smooth, continuous support and upgrades throughout the project's lifecycle.",
       "experience": {
         "backgroundNumber": 1,
         "field": "Client Collaboration",
@@ -199,14 +199,14 @@
           "image": "/images/home/persons/person1.png",
           "name": "Andreas Marco Jensen",
           "position": "The hub",
-          "quote": "Every team player at quhdock is a very professional developer who care greatly for the delivery. I was very pleased with the result."
+          "quote": "Every team player at ZT is a very professional developer who care greatly for the delivery. I was very pleased with the result."
         },
         {
           "id": 2,
           "image": "/images/home/persons/person2.png",
           "name": "Neil Joseph",
           "position": "Promise tech",
-          "quote": "Really pleasant experience working with quhdock, was able to bounce idea off if him as well as work efficiently using latest technology."
+          "quote": "Really pleasant experience working with ZT, was able to bounce idea off if him as well as work efficiently using latest technology."
         },
         {
           "id": 3,
@@ -234,14 +234,14 @@
           "image": "/images/home/persons/person4.png",
           "name": "Zahid Sharif",
           "position": "Inspections",
-          "quote": "Excellent Quhdock. Save our project and motivated the other whole team. Excellent attention to detail highly recommended them."
+          "quote": "Excellent ZT. Save our project and motivated the other whole team. Excellent attention to detail highly recommended them."
         },
         {
           "id": 7,
           "image": "/images/home/persons/person4.png",
           "name": "Vikas Ramaiah",
           "position": "Greenery Guard",
-          "quote": "Passionate team and fast thinker. Quhdock always finde solution to unique problem and build excellent logics of problems."
+          "quote": "Passionate team and fast thinker. ZT always finde solution to unique problem and build excellent logics of problems."
         },
         {
           "id": 8,
@@ -262,7 +262,7 @@
     "newAtCompany": {
       "heading": {
         "black": "New at",
-        "blue": "QUHDOCK"
+        "blue": "ZT"
       },
       "mainImage": {
         "date": "21 Aug 2021",
@@ -441,12 +441,12 @@
       {
         "image": "/images/home/persons/person1.png",
         "name": "Andreas Marco Jensen",
-        "text": "Every team player at quhdock is a very professional developer who care greatly for the delivery. I was very pleased with the result."
+        "text": "Every team player at ZT is a very professional developer who care greatly for the delivery. I was very pleased with the result."
       },
       {
         "image": "/images/home/persons/person2.png",
         "name": "Neil Joseph",
-        "text": "Really pleasant experience working with quhdock, was able to bounce idea off if him as well as work efficiently using latest technology."
+        "text": "Really pleasant experience working with ZT, was able to bounce idea off if him as well as work efficiently using latest technology."
       },
       {
         "image": "/images/home/persons/person3.png",
@@ -467,7 +467,7 @@
     "newAtCompany": {
       "heading": {
         "black": "New at",
-        "blue": "QUHDOCK"
+        "blue": "ZT"
       },
       "mainImage": {
         "date": "21 Aug 2021",
@@ -783,7 +783,7 @@
     "newAtCompany": {
       "heading": {
         "black": "New at",
-        "blue": "QUHDOCK"
+        "blue": "ZT"
       },
       "mainImage": {
         "date": "21 Aug 2021",
@@ -842,7 +842,7 @@
     "hero": {
       "heading": {
         "black": "Why Choose",
-        "blue": "QUHDOCK"
+        "blue": "ZT"
       },
       "description": " By combining cutting-edge technologies with a deep understanding of our clients’ needs, we ensure success at every stage."
     },
@@ -1125,7 +1125,7 @@
         "hero": {
           "title": {
             "white1": "Hey, I’m",
-            "blue": "QUHDOCK",
+            "blue": "ZT",
             "white2": "Fullstack Developer"
           },
           "description": "Fullstack Developer { REACT / MERN STACK }",
@@ -1243,7 +1243,7 @@
         "hero": {
           "title": {
             "white1": "Hey, I’m",
-            "blue": "QUHDOCK",
+            "blue": "ZT",
             "white2": "Fullstack Developer"
           },
           "description": "Fullstack Developer { REACT / MERN STACK }",
@@ -1361,7 +1361,7 @@
         "hero": {
           "title": {
             "white1": "Hey, I’m",
-            "blue": "QUHDOCK",
+            "blue": "ZT",
             "white2": "Fullstack Developer"
           },
           "description": "Fullstack Developer { REACT / MERN STACK }",
@@ -1479,7 +1479,7 @@
         "hero": {
           "title": {
             "white1": "Hey, I’m",
-            "blue": "QUHDOCK",
+            "blue": "ZT",
             "white2": "Fullstack Developer"
           },
           "description": "Fullstack Developer { REACT / MERN STACK }",
@@ -1597,7 +1597,7 @@
         "hero": {
           "title": {
             "white1": "Hey, I’m",
-            "blue": "QUHDOCK",
+            "blue": "ZT",
             "white2": "Fullstack Developer"
           },
           "description": "Fullstack Developer { REACT / MERN STACK }",
@@ -1715,7 +1715,7 @@
         "hero": {
           "title": {
             "white1": "Hey, I’m",
-            "blue": "QUHDOCK",
+            "blue": "ZT",
             "white2": "Fullstack Developer"
           },
           "description": "Fullstack Developer { REACT / MERN STACK }",
@@ -2512,9 +2512,9 @@
     "servicesTitle": "Services you are looking for"
   },
   "footer": {
-    "heading": "QUHDOCK + You",
-    "description": "At QUHDOCK, we develop cutting-edge digital solutions tailored to solve complex business challenges. Partner with us to turn your vision into scalable, innovative products.",
+    "heading": "ZT + You",
+    "description": "At ZT, we develop cutting-edge digital solutions tailored to solve complex business challenges. Partner with us to turn your vision into scalable, innovative products.",
     "button": "Get in Touch",
-    "copyRights": "© 2024 QUHDOCK All Rights Reserved."
+    "copyRights": "© 2024 ZT All Rights Reserved."
   }
 }

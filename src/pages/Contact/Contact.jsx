@@ -197,7 +197,7 @@ const Contact = () => {
                     onChange={(value) => handleInputChange('message', value)}
                     isTextArea={true}
                     placeholder="Enter your message"
-                    width={!isMobile ? 535 : 50}
+                    width={!isMobile ? 535 : 535}
                     isCompulsory
                     displaySteric={false}
                   />

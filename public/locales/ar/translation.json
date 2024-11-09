@@ -52,7 +52,7 @@
       "title": "من نحن",
       "heading": {
         "black": "عن",
-        "blue": "QUHDOCK"
+        "blue": "ZT"
       },
       "description": "كوهدوك هي شركة تطوير وتنفيذ برمجيات عالية الجودة مقرها في الولايات المتحدة الأمريكية. نحن متخصصون في إنشاء حلول برمجية متقدمة ترفع من الكفاءة وتدفع النمو وتعزز تجارب المستخدمين. فريقنا يجمع بين الخبرة التقنية والرؤى الصناعية لتقديم خدمات شاملة، بما في ذلك تطوير البرمجيات وتكامل النظم والدعم المستمر. سواء كنت شركة ناشئة تبحث عن إطلاق منتجك الأول أو شركة راسخة تبحث عن تحسين عملياتك، كوهدوك هنا لمساعدتك على النجاح."
     },
@@ -199,14 +199,14 @@
           "image": "/images/home/persons/person1.png",
           "name": "Andreas Marco Jensen",
           "position": "The hub",
-          "quote": "كل لاعب في فريق quhdock هو مطور محترف للغاية يهتم بشكل كبير بالتسليم. لقد شعرت بالسعادة الشديدة من النتيجة."
+          "quote": "كل لاعب في فريق ZT هو مطور محترف للغاية يهتم بشكل كبير بالتسليم. لقد شعرت بالسعادة الشديدة من النتيجة."
         },
         {
           "id": 2,
           "image": "/images/home/persons/person2.png",
           "name": "Neil Joseph",
           "position": "Promise tech",
-          "quote": "تجربة ممتعة حقًا في العمل مع quhdock، تمكنت من طرح الأفكار عليه بالإضافة إلى العمل بكفاءة باستخدام أحدث التقنيات."
+          "quote": "تجربة ممتعة حقًا في العمل مع ZT، تمكنت من طرح الأفكار عليه بالإضافة إلى العمل بكفاءة باستخدام أحدث التقنيات."
         },
         {
           "id": 3,
@@ -234,14 +234,14 @@
           "image": "/images/home/persons/person4.png",
           "name": "Zahid Sharif",
           "position": "Inspections",
-          "quote": "Quhdock ممتاز. أنقذ مشروعنا وحفز الفريق بأكمله. انتباه ممتاز للتفاصيل أوصي بهم بشدة."
+          "quote": "ZT ممتاز. أنقذ مشروعنا وحفز الفريق بأكمله. انتباه ممتاز للتفاصيل أوصي بهم بشدة."
         },
         {
           "id": 7,
           "image": "/images/home/persons/person4.png",
           "name": "Vikas Ramaiah",
           "position": "Greenery Guard",
-          "quote": "فريق عاطفي ومفكر سريع. Quhdock يجد دائمًا حلًا للمشكلات الفريدة ويصمم منطقًا ممتازًا للمشكلات."
+          "quote": "فريق عاطفي ومفكر سريع. ZT يجد دائمًا حلًا للمشكلات الفريدة ويصمم منطقًا ممتازًا للمشكلات."
         },
         {
           "id": 8,
@@ -276,7 +276,7 @@
     "newAtCompany": {
       "heading": {
         "black": "جديد في",
-        "blue": "QUHDOCK"
+        "blue": "ZT"
       },
       "mainImage": {
         "date": "21 أغسطس 2021",
@@ -456,12 +456,12 @@
       {
         "image": "/images/home/persons/person1.png",
         "name": "Andreas Marco Jensen",
-        "text": "كل لاعب في فريق quhdock هو مطور محترف للغاية يهتم بشكل كبير بالتسليم. لقد شعرت بالسعادة الشديدة من النتيجة."
+        "text": "كل لاعب في فريق ZT هو مطور محترف للغاية يهتم بشكل كبير بالتسليم. لقد شعرت بالسعادة الشديدة من النتيجة."
       },
       {
         "image": "/images/home/persons/person2.png",
         "name": "Neil Joseph",
-        "text": "تجربة ممتعة حقًا في العمل مع quhdock، تمكنت من طرح الأفكار عليه بالإضافة إلى العمل بكفاءة باستخدام أحدث التقنيات."
+        "text": "تجربة ممتعة حقًا في العمل مع ZT، تمكنت من طرح الأفكار عليه بالإضافة إلى العمل بكفاءة باستخدام أحدث التقنيات."
       },
       {
         "image": "/images/home/persons/person3.png",
@@ -482,7 +482,7 @@
     "newAtCompany": {
       "heading": {
         "black": "جديد في",
-        "blue": "QUHDOCK"
+        "blue": "ZT"
       },
       "mainImage": {
         "date": "21 أغسطس 2021",
@@ -771,7 +771,7 @@
     "newAtCompany": {
       "heading": {
         "black": "جديد في",
-        "blue": "QUHDOCK"
+        "blue": "ZT"
       },
       "mainImage": {
         "date": "21 أغسطس 2021",
@@ -830,7 +830,7 @@
     "hero": {
       "heading": {
         "black": "لماذا تختار",
-        "blue": "QUHDOCK"
+        "blue": "ZT"
       },
       "description": "من خلال دمج أحدث التقنيات مع فهم عميق لاحتياجات عملائنا، نضمن النجاح في كل مرحلة."
     },
@@ -1119,7 +1119,7 @@
         "hero": {
           "title": {
             "white1": "مرحباً، أنا",
-            "blue": "QUHDOCK",
+            "blue": "ZT",
             "white2": "مطور تطبيقات كامل المكدس"
           },
           "description": "مطور تطبيقات كامل المكدس { REACT / MERN STACK }",
@@ -1237,7 +1237,7 @@
         "hero": {
           "title": {
             "white1": "Hey, I’m",
-            "blue": "QUHDOCK",
+            "blue": "ZT",
             "white2": "Fullstack Developer"
           },
           "description": "Fullstack Developer { REACT / MERN STACK }",
@@ -1355,7 +1355,7 @@
         "hero": {
           "title": {
             "white1": "مرحباً، أنا",
-            "blue": "QUHDOCK",
+            "blue": "ZT",
             "white2": "مطور تطبيقات كامل المكدس"
           },
           "description": "Fullstack Developer { REACT / MERN STACK }",
@@ -1545,7 +1545,7 @@
         "hero": {
           "title": {
             "white1": "Hey, I’m",
-            "blue": "QUHDOCK",
+            "blue": "ZT",
             "white2": "Fullstack Developer"
           },
           "description": "Fullstack Developer { REACT / MERN STACK }",
@@ -1664,7 +1664,7 @@
         "hero": {
           "title": {
             "white1": "من أنا",
-            "blue": "QUHDOCK",
+            "blue": "ZT",
             "white2": "مطور كامل للويب"
           },
           "description": "Fullstack Developer { REACT / MERN STACK }",

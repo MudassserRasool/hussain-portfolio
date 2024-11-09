@@ -2,21 +2,21 @@ import { FaFacebookF, FaInstagram, FaLinkedin } from 'react-icons/fa';
 import { Clutch, GoodFirm } from '../assets';
 
 const data = {
-  heading: 'QUHDOCK + You',
+  heading: 'ZT + You',
   description:
-    ' At QUHDOCK, we develop cutting-edge digital solutions tailored to solve complex business challenges. Partner with us to turn your vision into scalable, innovative products.',
+    ' At ZT, we develop cutting-edge digital solutions tailored to solve complex business challenges. Partner with us to turn your vision into scalable, innovative products.',
   icons: [
     {
       icon: <FaLinkedin />,
-      link: 'https://www.linkedin.com/company/quhdock/',
+      link: 'https://www.linkedin.com/company/ZT/',
     },
     {
       icon: <FaFacebookF />,
-      link: 'https://www.facebook.com/quhdock',
+      link: 'https://www.facebook.com/ZT',
     },
     {
       icon: <FaInstagram />,
-      link: 'https://www.instagram.com/quhdock/',
+      link: 'https://www.instagram.com/ZT/',
     },
   ],
   locations: ['Wyoming, United States ', 'Lahore, Pakistan'],
