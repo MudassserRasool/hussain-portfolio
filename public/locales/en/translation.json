@@ -1,0 +1,2520 @@
+{
+  "navbar": [
+    {
+      "item": "Home",
+      "link": "/"
+    },
+    {
+      "item": "Services",
+      "link": "/services"
+    },
+    {
+      "item": "Portfolio",
+      "link": "/portfolio"
+    },
+    {
+      "item": "About",
+      "link": "/about"
+    },
+    {
+      "item": "Careers",
+      "link": "/careers"
+    },
+    {
+      "item": "Contact Us",
+      "link": "/contact-us"
+    }
+  ],
+  "home": {
+    "hero": {
+      "title": {
+        "white1": "WE TRANSFORM",
+        "blue": "{BUSINESSES}.",
+        "white2": "WITH TECH SOLUTIONS"
+      },
+      "description": "Our mission is to enhance the business growth of our customers with creative designs, development and to deliver market-defining high-quality solutions that create value and reliable competitive advantage of customers around the globe.",
+      "achievements": [
+        {
+          "number": "50+",
+          "title": "Projects"
+        },
+        {
+          "number": "40+",
+          "title": "Happy Clients"
+        },
+        {
+          "number": "4.9/5",
+          "title": "Average Rating"
+        }
+      ]
+    },
+    "about": {
+      "title": "Who we are",
+      "heading": {
+        "black": "About",
+        "blue": "QUHDOCK"
+      },
+      "description": "QUHDOCK is a high-end software development and implementation company based in the USA. We specialize in creating cutting-edge software solutions that enhance efficiency, drive growth, and elevate user experiences. Our team combines technical expertise with industry insights to provide comprehensive services, including software development, system integration, and ongoing support. Whether you're a startup looking to launch your first product or an established enterprise seeking to optimize your operations, QUHDOCK is here to help you succeed."
+    },
+    "ourServices": {
+      "heading": {
+        "black": "Our",
+        "blue": "Services"
+      },
+      "services": [
+        {
+          "title": "Web Development",
+          "description": "We offer custom web development services using cutting-edge technologies such as React, Angular, PHP, and Node.js. Our expert team delivers scalable, secure, and high-performing websites tailored to your business needs. Whether you require a dynamic e-commerce platform, a robust enterprise web app, or a simple landing page, we ensure an exceptional user experience and seamless performance across all devices.",
+          "link": "web-development",
+          "icon": "/icons/services/EcommerceDevelopment.png"
+        },
+        {
+          "title": "Mobile Development",
+          "description": "We build custom mobile applications for iOS and Android platforms. From concept to launch, our team ensures your mobile app is designed with a user-first approach and delivers a smooth, engaging experience. Leveraging React Native and other cross-platform tools, we ensure rapid development, low maintenance, and maximum device compatibility.",
+          "link": "mobile-development",
+          "icon": "/icons/services/MobileDevelopment.png"
+        },
+        {
+          "title": "Game Development",
+          "description": "Our game development services bring your creative ideas to life with immersive gameplay, stunning graphics, and multi-platform deployment. We offer end-to-end solutions for game design, development, and testing, ensuring smooth user experiences across mobile, web, and desktop platforms. Our focus is on creating engaging and high-performance games that captivate your audience.",
+          "link": "game-development",
+          "icon": "/icons/services/GameDevelopment.png"
+        },
+        {
+          "title": "Ecommerce ",
+          "description": "Boost your online business with our feature-rich and scalable e-commerce platforms. We provide custom-built solutions with seamless payment integrations, powerful inventory management, and an intuitive user interface to enhance customer satisfaction and maximize sales. Whether it's Shopify, WooCommerce, or a custom-built solution, we ensure your online store stands out.",
+          "link": "ecommerce-development",
+          "icon": "/icons/services/EcommerceDevelopment.png"
+        },
+        {
+          "title": "Cloud Services",
+          "description": "Our cloud services help businesses achieve greater scalability, flexibility, and performance by migrating their infrastructure to the cloud. We specialize in cloud strategy, migration, and management services with platforms like AWS, Microsoft Azure, and Google Cloud. Whether you need to enhance your storage capacity or streamline your workflow, we offer customized solutions to help your business grow.",
+          "link": "cloud-services",
+          "icon": "/icons/services/CloudServices.png"
+        },
+        {
+          "title": "Salesforce CRM",
+          "description": "Leverage the power of Salesforce CRM to streamline your business operations and enhance customer relationships. We offer Salesforce customization, integration, and automation services to help you manage your customer data effectively, improve communication, and increase sales productivity. Our solutions are tailored to your specific business needs to ensure optimal performance.",
+          "link": "srm",
+          "icon": "/icons/services/Cloud.png"
+        }
+      ]
+    },
+    "ourApproaches": {
+      "heading": {
+        "background": "How we do it",
+        "white": "Our",
+        "blue": "Appproach"
+      },
+      "description": "We offer cutting-edge website and mobile app development services for enterprises and businesses of all sizes. At Quhdock, we tailor solutions to meet each client's unique requirements from the initial concept phase to final delivery. Our process is designed to ensure smooth, continuous support and upgrades throughout the project's lifecycle.",
+      "experience": {
+        "backgroundNumber": 1,
+        "field": "Client Collaboration",
+        "title": " Tailored Solutions & Ongoing Support",
+        "description": "We believe in a client-first approach, working closely with you to ensure that the solution is perfectly aligned with your business needs. Our ongoing support and proactive communication ensure a smooth transition from development to deployment, ensuring long-term success."
+      },
+      "technology": {
+        "backgroundNumber": 2,
+        "field": "Technology",
+        "title": "Latest & Stable Technologies",
+        "description": "We leverage the most advanced and reliable technologies to help your business unlock its full potential. Whether you're a startup or a large enterprise, our tech solutions are designed to scale with your growth."
+      },
+      "process": {
+        "backgroundNumber": 3,
+        "field": "PROCESS",
+        "title": "Lean & Transparent Workflow",
+        "description": "Our agile, transparent development process keeps you involved at every step, from brainstorming to deployment. This ensures that the final product not only meets but exceeds your expectations."
+      }
+    },
+    "whyUs": {
+      "mainHeading": "WHY US",
+      "heading": {
+        "black": "Going Beyond",
+        "blue": "What’s Possible"
+      },
+      "image": "/images/home/persons/TeachingGirl.svg",
+      "services": [
+        {
+          "title": "Tailored Solutions",
+          "description": "We understand that every business is unique. That’s why we develop custom solutions specifically designed to meet your individual goals and challenges, ensuring a perfect fit for your needs."
+        },
+        {
+          "title": "Cutting-Edge Technology",
+          "description": "Our team of experts stays ahead of the curve by leveraging the latest technologies and industry trends. From AI-driven insights to cloud-based infrastructures, we integrate advanced tech to keep your business competitive."
+        },
+        {
+          "title": "Proven Expertise",
+          "description": "With years of experience and a track record of success, we have the knowledge and skills to deliver exceptional results. Our team is dedicated to providing top-tier service and support to help you achieve your goals."
+        },
+        {
+          "title": "Customer-Centric Approach",
+          "description": "We put our clients first, working closely with you to understand your needs and deliver solutions that exceed your expectations. Your success is our success, and we are committed to helping you thrive."
+        }
+      ]
+    },
+    "innovations": [
+      {
+        "heading": {
+          "white": "Our Featured",
+          "blue": "Innovations"
+        },
+        "backgroundNumber": "1",
+        "field": "Web Development",
+        "title": "SysPos",
+        "description": "SysPos is a powerful, cloud-based Point of Sale system built using Node.js, Angular, MySQL, and AWS. It simplifies retail operations by offering real-time dashboards, inventory and supplier management, kitchen display systems, and comprehensive sales analysis. With secure cloud infrastructure and insightful KPIs, SysPos ensures businesses can track performance and manage products efficiently. It’s a modern, all-in-one solution for any retail environment looking to enhance productivity and drive growth.",
+        "technologies": [
+          {
+            "name": "Express Js"
+          },
+          {
+            "name": "Node js"
+          },
+          {
+            "name": "Mysql"
+          },
+          {
+            "name": "Angular"
+          }
+        ],
+        "image": "/images/PcImage.png"
+      }
+    ],
+
+    "testimonial": {
+      "title": "TESTIMONIALS",
+      "heading": {
+        "white": "What Our",
+        "blue": "Clients Says"
+      },
+      "videos": ["/videos/1.mp4", "/videos/2.mp4", "/videos/3.mp4"]
+    },
+    "clients": {
+      "heading": {
+        "black": "Let’s Hear What",
+        "blue": "They Says"
+      },
+      "clientsReviews": [
+        {
+          "id": 1,
+          "image": "/images/home/persons/person1.png",
+          "name": "Andreas Marco Jensen",
+          "position": "The hub",
+          "quote": "Every team player at quhdock is a very professional developer who care greatly for the delivery. I was very pleased with the result."
+        },
+        {
+          "id": 2,
+          "image": "/images/home/persons/person2.png",
+          "name": "Neil Joseph",
+          "position": "Promise tech",
+          "quote": "Really pleasant experience working with quhdock, was able to bounce idea off if him as well as work efficiently using latest technology."
+        },
+        {
+          "id": 3,
+          "image": "/images/home/persons/person3.png",
+          "name": "Marie",
+          "position": "marketing honeypot",
+          "quote": "Excellent technical skill and expertise in delivering improvements and new feature in javascript application. Proactive and great communication."
+        },
+        {
+          "id": 4,
+          "image": "/images/home/persons/person4.png",
+          "name": "Gaoqing Yung",
+          "position": "Belo Labs",
+          "quote": "Great work! GQL to Rest migration was done very well Looking forward to working with in the future"
+        },
+        {
+          "id": 5,
+          "image": "/images/home/persons/person4.png",
+          "name": "Abdul Rahman",
+          "position": "SysPos",
+          "quote": "One of the best developer I worked with, he always with extra effort for the best result, will work again for sure!."
+        },
+        {
+          "id": 6,
+          "image": "/images/home/persons/person4.png",
+          "name": "Zahid Sharif",
+          "position": "Inspections",
+          "quote": "Excellent Quhdock. Save our project and motivated the other whole team. Excellent attention to detail highly recommended them."
+        },
+        {
+          "id": 7,
+          "image": "/images/home/persons/person4.png",
+          "name": "Vikas Ramaiah",
+          "position": "Greenery Guard",
+          "quote": "Passionate team and fast thinker. Quhdock always finde solution to unique problem and build excellent logics of problems."
+        },
+        {
+          "id": 8,
+          "image": "/images/home/persons/person4.png",
+          "name": "Roger Hoover",
+          "position": "Get Response",
+          "quote": "Completed my project exceptionally fast and got it the first time. Was easy to communicate with. Will definitely work with again"
+        },
+        {
+          "id": 9,
+          "image": "/images/home/persons/person4.png",
+          "name": "Micheal",
+          "position": "Turn Base Studio",
+          "quote": "A fantastic organization, providing eye catchy and elegant UI Designs. Pixal perfect and organize UI delivers."
+        }
+      ]
+    },
+    "newAtCompany": {
+      "heading": {
+        "black": "New at",
+        "blue": "QUHDOCK"
+      },
+      "mainImage": {
+        "date": "21 Aug 2021",
+        "text": "Impact Of Extrinsic Motivation On Intrinsic Motivation",
+        "image": "/images/home/InnovationMain.png"
+      },
+      "images": [
+        {
+          "date": "21 Aug 2021",
+          "text": "Impact Of Extrinsic Motivation On Intrinsic Motivation",
+          "image": "/images/home/Innovation1.png"
+        },
+        {
+          "date": "21 Aug 2021",
+          "text": "Impact Of Extrinsic Motivation On Intrinsic Motivation",
+          "image": "/images/home/Innovation2.png"
+        },
+        {
+          "date": "21 Aug 2021",
+          "text": "Impact Of Extrinsic Motivation On Intrinsic Motivation",
+          "image": "/images/home/Innovation3.png"
+        },
+        {
+          "date": "21 Aug 2021",
+          "text": "Impact Of Extrinsic Motivation On Intrinsic Motivation",
+          "image": "/images/home/Innovation4.png"
+        }
+      ]
+    },
+    "Faqs": {
+      "heading": {
+        "black": "Frequently",
+        "blue": "Asked Questions"
+      },
+      "questions": [
+        {
+          "question": "What is the process of developing software?",
+          "answer": "The software development process involves several key stages. It begins with gathering detailed requirements from the client, followed by designing the software architecture. Once the design is finalized, our team of developers codes the software. After development, rigorous testing is performed to ensure it meets client expectations. Finally, the software is deployed and goes live in the client's environment."
+        },
+        {
+          "question": "How long does it take to develop software?",
+          "answer": "Development timelines vary depending on the project scope and complexity. Typically, smaller projects can take a few weeks, while larger projects might span several months. We provide clear timelines after gathering your requirements."
+        },
+        {
+          "question": "How much does it cost to develop a software?",
+          "answer": "The cost of software development depends on the project size, functionality, and technology stack. We offer flexible pricing tailored to your business needs and provide detailed estimates upfront."
+        },
+        {
+          "question": "What technologies do you use for software development?",
+          "answer": "We use the latest and most reliable technologies, including Node.js, React, Angular, Python, AWS, and more, ensuring cutting-edge solutions for all your needs."
+        }
+      ]
+    }
+  },
+  "services": {
+    "header": {
+      "heading": {
+        "white": "Our",
+        "blue": "Services"
+      },
+      "description": "We offer end-to-end software development services, from web and mobile app development to cloud solutions, ensuring scalable and tailored digital experiences."
+    },
+    "allServices": [
+      {
+        "cardOne": {
+          "icon": "/icons/services/BlueWebsite.svg",
+          "heading": {
+            "black": "Web",
+            "blue": "Development"
+          },
+          "description": "We offer custom web development services using cutting-edge technologies such as React, Angular, PHP, and Node.js. Our expert team delivers scalable, secure, and high-performing websites tailored to your business needs. Whether you require a dynamic e-commerce platform, a robust enterprise web app, or a simple landing page, we ensure an exceptional user experience and seamless performance across all devices.",
+          "buttonLink": "web-development",
+          "images": {
+            "large": "/images/services/LaptopTyping.png",
+            "small": "/images/services/WatchingVR.png"
+          }
+        },
+        "cardTwo": {
+          "icon": "/icons/services/MobileDevelopment.png",
+          "heading": {
+            "black": "Mobile",
+            "blue": "Development"
+          },
+          "description": "We build custom mobile applications for iOS and Android platforms. From concept to launch, our team ensures your mobile app is designed with a user-first approach and delivers a smooth, engaging experience. Leveraging React Native and other cross-platform tools, we ensure rapid development, low maintenance, and maximum device compatibility.",
+          "buttonLink": "mobile-development",
+          "images": {
+            "large": "/images/services/Coworking.svg",
+            "small": "/images/services/ManyPeopleTyping.png"
+          }
+        }
+      },
+      {
+        "cardOne": {
+          "icon": "/icons/services/BlueWebsite.svg",
+          "heading": {
+            "black": "Game",
+            "blue": "Development"
+          },
+          "description": "Our game development services bring your creative ideas to life with immersive gameplay, stunning graphics, and multi-platform deployment. We offer end-to-end solutions for game design, development, and testing, ensuring smooth user experiences across mobile, web, and desktop platforms. Our focus is on creating engaging and high-performance games that captivate your audience.",
+          "buttonLink": "game-development",
+          "images": {
+            "large": "/images/services/LaptopTyping.png",
+            "small": "/images/services/WatchingVR.png"
+          }
+        },
+        "cardTwo": {
+          "icon": "/icons/services/MobileDevelopment.png",
+          "heading": {
+            "black": "Ecommerce",
+            "blue": "Development"
+          },
+          "description": "Boost your online business with our feature-rich and scalable e-commerce platforms. We provide custom-built solutions with seamless payment integrations, powerful inventory management, and an intuitive user interface to enhance customer satisfaction and maximize sales. Whether it's Shopify, WooCommerce, or a custom-built solution, we ensure your online store stands out.",
+          "buttonLink": "ecommerce-development",
+          "images": {
+            "large": "/images/services/CoWorking.png",
+            "small": "/images/services/ManyPeopleTyping.png"
+          }
+        }
+      },
+      {
+        "cardOne": {
+          "icon": "/icons/services/BlueWebsite.svg",
+          "heading": {
+            "black": "Cloud",
+            "blue": "Services"
+          },
+          "description": "Our cloud services help businesses achieve greater scalability, flexibility, and performance by migrating their infrastructure to the cloud. We specialize in cloud strategy, migration, and management services with platforms like AWS, Microsoft Azure, and Google Cloud. Whether you need to enhance your storage capacity or streamline your workflow, we offer customized solutions to help your business grow.",
+          "buttonLink": "cloud-services",
+          "images": {
+            "large": "/images/services/LaptopTyping.png",
+            "small": "/images/services/WatchingVR.png"
+          }
+        },
+        "cardTwo": {
+          "icon": "/icons/services/MobileDevelopment.png",
+          "heading": {
+            "black": "Salesforce",
+            "blue": "CRM"
+          },
+          "description": "Leverage the power of Salesforce CRM to streamline your business operations and enhance customer relationships. We offer Salesforce customization, integration, and automation services to help you manage your customer data effectively, improve communication, and increase sales productivity. Our solutions are tailored to your specific business needs to ensure optimal performance.",
+          "buttonLink": "srm",
+          "images": {
+            "large": "/images/services/CoWorking.png",
+            "small": "/images/services/ManyPeopleTyping.png"
+          }
+        }
+      }
+    ],
+    "innovations": [
+      {
+        "heading": {
+          "white": "Our Featured",
+          "blue": "Innovations"
+        },
+        "backgroundNumber": "1",
+        "field": "Web Development",
+        "title": "SysPos",
+        "description": "This project is based on Stack: NodeJs, Angular, MySQL, AWS We have developed a point of sale system that covers all the essential retail management areas with ease. Features included in our product are Real Time Dashboard, Inventory Management, Kitchen Dispaly System, Suppliers Management System, Cloudbased Secured System, KPI's & Reporting, Sales Review & Analysis, Product Management All these features make our product a worthy choice.",
+        "technologies": [
+          {
+            "name": "Nest Js",
+            "icon": "Angular"
+          },
+          {
+            "name": "Angular",
+            "icon": "MySQL"
+          },
+          {
+            "name": "MySQL"
+          }
+        ],
+        "image": "/images/PcImage.png"
+      }
+    ],
+    "testimonials": [
+      {
+        "image": "/images/home/persons/person1.png",
+        "name": "Andreas Marco Jensen",
+        "text": "Every team player at quhdock is a very professional developer who care greatly for the delivery. I was very pleased with the result."
+      },
+      {
+        "image": "/images/home/persons/person2.png",
+        "name": "Neil Joseph",
+        "text": "Really pleasant experience working with quhdock, was able to bounce idea off if him as well as work efficiently using latest technology."
+      },
+      {
+        "image": "/images/home/persons/person3.png",
+        "name": "Marie",
+        "text": "Excellent technical skill and expertise in delivering improvements and new feature in javascript application. Proactive and great communication."
+      },
+      {
+        "image": "/images/home/persons/person4.png",
+        "name": "Gaoqing Yung",
+        "text": "Great work! GQL to Rest migration was done very well Looking forward to working with in the future"
+      },
+      {
+        "image": "/images/home/persons/person4.png",
+        "name": "Abdul Rahman",
+        "text": "One of the best developer I worked with, he always with extra effort for the best result, will work again for sure!."
+      }
+    ],
+    "newAtCompany": {
+      "heading": {
+        "black": "New at",
+        "blue": "QUHDOCK"
+      },
+      "mainImage": {
+        "date": "21 Aug 2021",
+        "text": "Impact Of Extrinsic Motivation On Intrinsic Motivation",
+        "image": "/images/home/InnovationMain.png"
+      },
+      "images": [
+        {
+          "date": "21 Aug 2021",
+          "text": "Impact Of Extrinsic Motivation On Intrinsic Motivation",
+          "image": "/images/home/Innovation1.png"
+        },
+        {
+          "date": "21 Aug 2021",
+          "text": "Impact Of Extrinsic Motivation On Intrinsic Motivation",
+          "image": "/images/home/Innovation2.png"
+        },
+        {
+          "date": "21 Aug 2021",
+          "text": "Impact Of Extrinsic Motivation On Intrinsic Motivation",
+          "image": "/images/home/Innovation3.png"
+        },
+        {
+          "date": "21 Aug 2021",
+          "text": "Impact Of Extrinsic Motivation On Intrinsic Motivation",
+          "image": "/images/home/Innovation4.png"
+        }
+      ]
+    },
+    "Faqs": {
+      "heading": {
+        "black": "Frequently",
+        "blue": "Asked Questions"
+      },
+      "questions": [
+        {
+          "question": "What is the process of developing a software?",
+          "answer": "The process of developing a software involves several steps. The first step is to gather requirements from the client. Once the requirements are gathered, the next step is to design the software. After the design is finalized, the development team starts coding the software. Once the coding is complete, the software is tested to ensure that it meets the client's requirements. Finally, the software is deployed to the client's environment."
+        },
+        {
+          "question": "How long does it take to develop a software?",
+          "answer": "The time it takes to develop a software depends on the complexity of the project. A simple software project can be completed in a few weeks, while a complex project can take several months to complete. The development team will provide you with an estimated timeline for your project based on the requirements you provide."
+        },
+        {
+          "question": "How much does it cost to develop a software?",
+          "answer": "The cost of developing a software depends on the complexity of the project. A simple software project can cost a few thousand dollars, while a complex project can cost several hundred thousand dollars. The development team will provide you with a detailed cost estimate for your project based on the requirements you provide."
+        },
+        {
+          "question": "What technologies do you use for software development?",
+          "answer": "We use a wide range of technologies for software development, including Java, Python, C#, JavaScript, HTML, CSS, and many others. The development team will work with you to select the best technologies for your project based on your requirements."
+        }
+      ]
+    }
+  },
+  "portfolio": {
+    "header": {
+      "heading": {
+        "white": "Our",
+        "blue": "Work"
+      },
+      "description": "We provide you end to end software development and consultancy services resulting in extraordinary digital experiences."
+    },
+    "innovations": [
+      {
+        "backgroundNumber": "1",
+        "field": "Web Development",
+        "title": "MyScienceLand",
+        "description": "MyScienceLand is an educational platform designed to transform science learning by offering engaging, interactive tools for schools, teachers, and students. Schools register on the platform, allowing teachers to create diverse quizzes, including multiple-choice, short-answer, and long-answer formats. The platform also provides science-based courses, assessments, and fosters community engagement to enhance learning. Its goal is to make scientific concepts more accessible, enjoyable, and easier to understand, supporting both educators and students in their educational journey.",
+        "technologies": [
+          {
+            "name": "React Js",
+            "icon": ""
+          },
+          {
+            "name": "Nest js",
+            "icon": ""
+          },
+          {
+            "name": "MongoDB",
+            "icon": ""
+          },
+          {
+            "name": "AI",
+            "icon": ""
+          }
+        ],
+        "image": "/images/portfolio/Myscienceland.png"
+      },
+      {
+        "backgroundNumber": "2",
+        "field": "Web Development",
+        "title": "Wellavi",
+        "description": "Wellavi is a comprehensive wellness platform focused on personal coaching and health improvement. It offers users tailored programs to help them achieve their wellness goals through guided coaching, progress tracking, and personalized plans. The platform empowers individuals to enhance their physical and mental well-being by providing essential resources and professional support.",
+        "technologies": [
+          {
+            "name": "React js",
+            "icon": "Angular"
+          },
+          {
+            "name": "Nest Js",
+            "icon": "MySQL"
+          },
+          {
+            "name": "Azure",
+            "icon": "MySQL"
+          },
+          {
+            "name": "Aws",
+            "icon": "MySQL"
+          }
+        ],
+        "image": "/images/portfolio/Welavi.png"
+      },
+      {
+        "backgroundNumber": "3",
+        "field": "Web Development",
+        "title": "Getbee",
+        "description": "Getbee is an all-in-one platform that enhances customer communication through channels like chat, email, and SMS, featuring automated responses and real-time analytics for better support. It connects store experts with customers, offering real-time guidance via chat, video, and audio calls powered by Azure Communication Services (ACS). This integration ensures seamless, high-quality communication that improves user experience.",
+        "technologies": [
+          {
+            "name": "WebFlow",
+            "icon": "NodeJs"
+          },
+          {
+            "name": "JQuery",
+            "icon": "NodeJs"
+          },
+          {
+            "name": "Core Js",
+            "icon": "NodeJs"
+          },
+          {
+            "name": "React Native",
+            "icon": "NodeJs"
+          }
+        ],
+        "image": "/images/portfolio/Getbee.png"
+      },
+
+      {
+        "backgroundNumber": "4",
+        "field": "Web Development",
+        "title": "SysPos",
+        "description": "This project is based on Stack: NodeJs, Angular, MySQL, AWS We have developed a point of sale system that covers all the essential retail management areas with ease. Features included in our product are Real Time Dashboard, Inventory Management, Kitchen Dispaly System, Suppliers Management System, Cloudbased Secured System, KPI's & Reporting, Sales Review & Analysis, Product Management All these features make our product a worthy choice.",
+        "technologies": [
+          {
+            "name": "Nest Js",
+            "icon": "NodeJs"
+          },
+          {
+            "name": "Angular",
+            "icon": "MySQL"
+          },
+          {
+            "name": "MySQL"
+          }
+        ],
+        "image": "/images/portfolio/SysPos.svg"
+      },
+      {
+        "backgroundNumber": "5",
+        "field": "Web Development",
+        "title": "CryptoSlam",
+        "description": "CryptoSlam aims to provide ultimate transparency for millions of NFT collectibles across multiple blockchains. As a trusted NFT data aggregator, buyers and sellers rely on CryptoSlam’s data to make their purchasing and selling decisions. In addition, NFT creators rely on CryptoSlam’s large user base to help promote their brands and NFT drops.",
+        "technologies": [
+          {
+            "name": "React Js",
+            "icon": "NodeJs"
+          },
+          {
+            "name": "Next js",
+            "icon": "Angular"
+          },
+          {
+            "name": "JQuery",
+            "icon": "MySQL"
+          }
+        ],
+        "image": "/images/portfolio/Crypto.svg"
+      },
+      {
+        "backgroundNumber": "6",
+        "field": "Web Development",
+        "title": "The Space War",
+        "description": "This project is based on Stack: VueJs, NodeJS and used online scoring Server.The rules of this game is the same for offline play, online play, casual play and tournament play.You are a commander of a space station in war with another commander and space station. The crew on your station can build spaceships, missiles, defense shields and other things which can attack the enemy station in various ways. If your station gets damaged, you have to flip that many station cards and if you have no station cards left to flip you lose the game.",
+        "technologies": [
+          {
+            "name": "Vue Js",
+            "icon": "NodeJs"
+          },
+          {
+            "name": "Socket IO",
+            "icon": "Angular"
+          },
+          {
+            "name": "Express Js",
+            "icon": "MySQL"
+          }
+        ],
+        "image": "/images/portfolio/SpaceWar.svg"
+      },
+      {
+        "backgroundNumber": "7",
+        "field": "Web Development",
+        "title": "Turn Based Studio",
+        "description": "This project is basesd on Stack: ReactJs and MUI. We design UI/UX of this page. We gather and evaluate user requirements in collaboration with product managers and engineer's. We illustrate design ideas using storyboards,process flows and sitemaps. We design graphics user interface elements like menus, tabs and widgets. We develop UI mockups and prototypes that illustrate how site function and look like. We create original graphic designs(e.g images, sketches and tabels). We prepare and present rough drafts to internal teams and key stakeholders.",
+        "technologies": [
+          {
+            "name": "React Js",
+            "icon": "NodeJs"
+          },
+          {
+            "name": "Node js",
+            "icon": "Angular"
+          },
+          {
+            "name": "Angular",
+            "icon": "MySQL"
+          }
+        ],
+        "image": "/images/portfolio/TurnStudio.svg"
+      },
+      {
+        "backgroundNumber": "8",
+        "field": "Web Development",
+        "title": "hepc-path-tool",
+        "description": "This project is based on Stack: VueJs and Php. This project is about a Healthcare platform to find, ask,book, or consult dotors online. It help patients in connecting with verified and authentic doctors so that they can get quality healthcare that is easily accessible, affordable and convenient to get. At the same time, it help doctors to digitize their practices. Millions people have used this website so far to acquire information, book appointments, and take online platform, that serve both patients and doctors",
+        "technologies": [
+          {
+            "name": "Javascript",
+            "icon": "NodeJs"
+          },
+          {
+            "name": "HTML",
+            "icon": "Angular"
+          },
+          {
+            "name": "CSS",
+            "icon": "MySQL"
+          },
+          {
+            "name": "PHP"
+          }
+        ],
+        "image": "/images/portfolio/hepec.png"
+      },
+      {
+        "backgroundNumber": "9",
+        "field": "Web Development",
+        "title": "Uqoud",
+        "description": "Uqoud is a comprehensive cloud-based contract management solution designed to streamline the contract lifecycle. It offers a range of tools for digital onboarding, contract creation, signing, and archiving, enhancing operational efficiency. Notably, Uqoud incorporates advanced features such as eKYC for identity verification using facial recognition, digital signatures, and AI-powered document forgery detection, ensuring secure and reliable transactions. The platform significantly improves approval processes and enables seamless remote transactions, making it an essential tool for modern businesses.",
+        "technologies": [
+          {
+            "name": "React Js",
+            "icon": ""
+          },
+          {
+            "name": "Nest Js",
+            "icon": ""
+          },
+          {
+            "name": "PostgreSQL",
+            "icon": ""
+          }
+        ],
+        "image": "/images/portfolio/Uaqud.png"
+      }
+    ],
+    "testimonial": {
+      "title": "TESTIMONIALS",
+      "heading": {
+        "white": "What Our",
+        "blue": "Clients Says"
+      },
+      "videos": ["/videos/1.mp4", "/videos/2.mp4", "/videos/3.mp4"]
+    },
+    "clients": {
+      "heading": {
+        "black": "Let’s Hear What",
+        "blue": "They Says"
+      },
+      "clientsReviews": [
+        {
+          "id": 1,
+          "image": "/images/home/persons/person1.png",
+          "name": "Ricky Aprilia",
+          "position": "Founder of Varibo",
+          "quote": "I have been working with QUH Dock for a long 1-year now and I must say that they are the best in the business. They have a team of highly skilled professionals who are always ready to help you out. I would recommend them to anyone who is looking for a reliable software development company."
+        },
+        {
+          "id": 2,
+          "image": "/images/home/persons/person2.png",
+          "name": "Ricky Aprilia",
+          "position": "Founder of Varibo",
+          "quote": "I have been working with QUH Dock for a 2-year now and I must say that they are the best in the business. They have a team of highly skilled professionals who are always ready to help you out. I would recommend them to anyone who is looking for a reliable software development company."
+        },
+        {
+          "id": 3,
+          "image": "/images/home/persons/person3.png",
+          "name": "Ricky Aprilia",
+          "position": "Founder of Varibo",
+          "quote": "I have been working with QUH Dock for a 3-year now and I must say that they are the best in the business. They have a team of highly skilled professionals who are always ready to help you out. I would recommend them to anyone who is looking for a reliable software development company."
+        },
+        {
+          "id": 4,
+          "image": "/images/home/persons/person4.png",
+          "name": "Ricky Aprilia",
+          "position": "Founder of Varibo",
+          "quote": "I have been working with QUH Dock for a 4-year now and I must say that they are the best in the business. They have a team of highly skilled professionals who are always ready to help you out. I would recommend them to anyone who is looking for a reliable software development company."
+        }
+      ]
+    },
+    "newAtCompany": {
+      "heading": {
+        "black": "New at",
+        "blue": "QUHDOCK"
+      },
+      "mainImage": {
+        "date": "21 Aug 2021",
+        "text": "Impact Of Extrinsic Motivation On Intrinsic Motivation",
+        "image": "/images/home/InnovationMain.png"
+      },
+      "images": [
+        {
+          "date": "21 Aug 2021",
+          "text": "Impact Of Extrinsic Motivation On Intrinsic Motivation",
+          "image": "/images/home/Innovation1.png"
+        },
+        {
+          "date": "21 Aug 2021",
+          "text": "Impact Of Extrinsic Motivation On Intrinsic Motivation",
+          "image": "/images/home/Innovation2.png"
+        },
+        {
+          "date": "21 Aug 2021",
+          "text": "Impact Of Extrinsic Motivation On Intrinsic Motivation",
+          "image": "/images/home/Innovation3.png"
+        },
+        {
+          "date": "21 Aug 2021",
+          "text": "Impact Of Extrinsic Motivation On Intrinsic Motivation",
+          "image": "/images/home/Innovation4.png"
+        }
+      ]
+    },
+    "Faqs": {
+      "heading": {
+        "black": "Frequently",
+        "blue": "Asked Questions"
+      },
+      "questions": [
+        {
+          "question": "What is the process of developing a software?",
+          "answer": "The process of developing a software involves several steps. The first step is to gather requirements from the client. Once the requirements are gathered, the next step is to design the software. After the design is finalized, the development team starts coding the software. Once the coding is complete, the software is tested to ensure that it meets the client's requirements. Finally, the software is deployed to the client's environment."
+        },
+        {
+          "question": "How long does it take to develop a software?",
+          "answer": "The time it takes to develop a software depends on the complexity of the project. A simple software project can be completed in a few weeks, while a complex project can take several months to complete. The development team will provide you with an estimated timeline for your project based on the requirements you provide."
+        },
+        {
+          "question": "How much does it cost to develop a software?",
+          "answer": "The cost of developing a software depends on the complexity of the project. A simple software project can cost a few thousand dollars, while a complex project can cost several hundred thousand dollars. The development team will provide you with a detailed cost estimate for your project based on the requirements you provide."
+        },
+        {
+          "question": "What technologies do you use for software development?",
+          "answer": "We use a wide range of technologies for software development, including Java, Python, C#, JavaScript, HTML, CSS, and many others. The development team will work with you to select the best technologies for your project based on your requirements."
+        }
+      ]
+    }
+  },
+  "about": {
+    "hero": {
+      "heading": {
+        "black": "Why Choose",
+        "blue": "QUHDOCK"
+      },
+      "description": " By combining cutting-edge technologies with a deep understanding of our clients’ needs, we ensure success at every stage."
+    },
+    "missions": [
+      {
+        "icon": "/icons/about/Arrow.svg",
+        "title": "What We Do",
+        "heading": {
+          "black": "Our",
+          "blue": "Mission"
+        },
+        "description": "To deliver innovative, custom-tailored web solutions that empower businesses to excel in the digital age. By leveraging cutting-edge technologies, we help our clients enhance their online presence, streamline operations, and achieve sustainable growth. Our mission is to foster long-term partnerships with organizations worldwide by consistently delivering top-quality, scalable, and reliable digital products."
+      },
+      {
+        "icon": "/icons/about/EyeHit.svg",
+        "title": "What We Aspire To Be",
+        "heading": {
+          "black": "Our",
+          "blue": "Vision"
+        },
+        "description": "To become a global leader in web development by creating groundbreaking digital experiences that shape the future of businesses. We aim to drive innovation and set new industry standards, empowering organizations around the world to thrive in a competitive, ever-evolving digital landscape."
+      }
+    ],
+    "team": {
+      "title": "LEADERSHIP",
+      "heading": {
+        "white": "Meet Our",
+        "blue": "Team"
+      },
+      "employees": [
+        {
+          "id": 1,
+          "image": "/images/about/employees/UmairMern.png",
+          "name": "Umair",
+          "position": "Fullstack Developer",
+          "description": "Umair is a Principal Software Engineer and Fullstack Developer specializing in MERN and PERN stacks."
+        },
+        {
+          "id": 2,
+          "image": "/images/about/employees/KashifFrontend.png",
+          "name": "Kashif Zaman",
+          "position": "Fronted Developer",
+          "description": "Kashif Zaman is a Frontend Developer with expertise in HTML, CSS, and JavaScript, dedicated to creating user-friendly and visually appealing web applications."
+        },
+        {
+          "id": 3,
+          "image": "/images/about/employees/MudasserFrontend.png",
+          "name": "Mudasser Rasool",
+          "position": "Frontend Developer",
+          "description": "Mudasser Rasool is a Frontend Developer with expertise in HTML, CSS, and JavaScript, dedicated to creating user-friendly and visually appealing web applications."
+        },
+        {
+          "id": 4,
+          "image": "/images/about/employees/hamdiaSqa.png",
+          "name": "Hamdia Sher",
+          "position": "SQA",
+          "description": "Hamdia Sher is an SQA (Software Quality Assurance) Engineer dedicated to ensuring the highest standards of software quality through meticulous testing and analysis."
+        },
+        {
+          "id": 5,
+          "image": "/images/about/employees/ShakibBackend.png",
+          "name": "Shakib Ur Rehman",
+          "position": "Backend Developer",
+          "description": "Shakib Ur Rehman is a skilled Backend Developer with expertise in NestJS, Express.js, MongoDB, SQL, and AWS."
+        },
+        {
+          "id": 6,
+          "image": "/images/about/employees/Waqas.png",
+          "name": "Waqas",
+          "position": "Backend Developer",
+          "description": "Waqas is a skilled Backend Developer with expertise in NestJS, Express.js, MongoDB, SQL, and AWS."
+        }
+      ]
+    },
+    "market": {
+      "heading": {
+        "black": "Markets In Which",
+        "blue": "We Operate"
+      },
+      "markets": [
+        {
+          "icon": "/icons/about/EcommerceDevelopment.png",
+          "title": "E-commerce Websites",
+          "description": "Empowering e-commerce websites with seamless digital solutions."
+        },
+        {
+          "icon": "/icons/about/EcommerceDevelopment.png",
+          "title": "Software Development",
+          "description": "Driving innovation in software development with tailored solutions."
+        },
+        {
+          "icon": "/icons/about/EcommerceDevelopment.png",
+          "title": "B2B /B2C Services",
+          "description": "Enabling B2B and B2C services with scalable digital platforms."
+        },
+        {
+          "icon": "/icons/about/EcommerceDevelopment.png",
+          "title": "Startup Projects",
+          "description": "Supporting startup projects with innovative tech solutions."
+        }
+      ]
+    },
+    "teachStacks": {
+      "heading": {
+        "black": "Technologies We",
+        "blue": "Work With"
+      },
+      "stacks": [
+        {
+          "title": "Frontend",
+          "icons": [
+            "icons/about/techStack/Ionic.svg",
+            "icons/about/techStack/Unity.svg",
+            "icons/about/techStack/Flutter.svg",
+            "icons/about/techStack/React.svg",
+            "icons/about/techStack/Java.svg",
+            "icons/about/techStack/CPlusPlus.svg",
+            "icons/about/techStack/Ios.svg",
+            "icons/about/techStack/Android.svg"
+          ]
+        },
+        {
+          "title": "Backend",
+          "icons": [
+            "icons/about/techStack/Ionic.svg",
+            "icons/about/techStack/Unity.svg",
+            "icons/about/techStack/Flutter.svg",
+            "icons/about/techStack/React.svg",
+            "icons/about/techStack/Java.svg",
+            "icons/about/techStack/CPlusPlus.svg",
+            "icons/about/techStack/Ios.svg",
+            "icons/about/techStack/Android.svg"
+          ]
+        },
+        {
+          "title": "Mobile",
+          "icons": [
+            "icons/about/techStack/Flutter.svg",
+            "icons/about/techStack/React.svg",
+            "icons/about/techStack/Java.svg"
+          ]
+        },
+        {
+          "title": "Database",
+          "icons": [
+            "icons/about/techStack/Ionic.svg",
+            "icons/about/techStack/Unity.svg",
+            "icons/about/techStack/Flutter.svg",
+            "icons/about/techStack/React.svg",
+            "icons/about/techStack/Java.svg",
+            "icons/about/techStack/CPlusPlus.svg",
+            "icons/about/techStack/Ios.svg",
+            "icons/about/techStack/Android.svg"
+          ]
+        },
+        {
+          "title": "Full Stack",
+          "icons": [
+            "icons/about/techStack/Ionic.svg",
+            "icons/about/techStack/Unity.svg",
+            "icons/about/techStack/Flutter.svg",
+            "icons/about/techStack/React.svg",
+            "icons/about/techStack/Java.svg",
+            "icons/about/techStack/CPlusPlus.svg",
+            "icons/about/techStack/Ios.svg",
+            "icons/about/techStack/Android.svg"
+          ]
+        },
+        {
+          "title": "CMS & eCommerce",
+          "icons": [
+            "icons/about/techStack/Ionic.svg",
+            "icons/about/techStack/React.svg",
+            "icons/about/techStack/Java.svg",
+            "icons/about/techStack/CPlusPlus.svg",
+            "icons/about/techStack/Ios.svg",
+            "icons/about/techStack/Android.svg"
+          ]
+        }
+      ]
+    },
+    "milestones": {
+      "heading": {
+        "black": "Our",
+        "blue": "Milestones"
+      },
+      "milestones": [
+        {
+          "year": "2020",
+          "title": "Wellavi",
+          "description": "Wellavi is a comprehensive wellness platform focused on personal coaching and health improvement. "
+        },
+        {
+          "year": "2021",
+          "title": "SysPos",
+          "description": "This project is based on Stack: NodeJs, Angular, MySQL, AWS We have developed a point of sale system that covers all the essential retail management areas with ease."
+        },
+        {
+          "year": "2022",
+          "title": "SpaceWar",
+          "description": "This project is based on Stack: VueJs, NodeJS and used online scoring Server.The rules of this game is the same for offline play, online play, casual play and tournament play."
+        },
+        {
+          "year": "2023",
+          "title": "Getbee",
+          "description": "Getbee is an all-in-one platform that enhances customer communication through channels like chat, email, and SMS, featuring automated responses and real-time analytics for better support."
+        }
+      ]
+    },
+
+    "testimonial": {
+      "title": "TESTIMONIALS",
+      "heading": {
+        "white": "What Our",
+        "blue": "Clients Says"
+      },
+      "videos": ["/videos/1.mp4", "/videos/2.mp4", "/videos/3.mp4"]
+    },
+    "clients": {
+      "heading": {
+        "black": "Let’s Hear What",
+        "blue": "They Says"
+      },
+      "clientsReviews": [
+        {
+          "id": 1,
+          "image": "/images/home/persons/person1.png",
+          "name": "Ricky Aprilia",
+          "position": "Founder of Varibo",
+          "quote": "I have been working with QUH Dock for a long 1-year now and I must say that they are the best in the business. They have a team of highly skilled professionals who are always ready to help you out. I would recommend them to anyone who is looking for a reliable software development company."
+        },
+        {
+          "id": 2,
+          "image": "/images/home/persons/person2.png",
+          "name": "Ricky Aprilia",
+          "position": "Founder of Varibo",
+          "quote": "I have been working with QUH Dock for a 2-year now and I must say that they are the best in the business. They have a team of highly skilled professionals who are always ready to help you out. I would recommend them to anyone who is looking for a reliable software development company."
+        },
+        {
+          "id": 3,
+          "image": "/images/home/persons/person3.png",
+          "name": "Ricky Aprilia",
+          "position": "Founder of Varibo",
+          "quote": "I have been working with QUH Dock for a 3-year now and I must say that they are the best in the business. They have a team of highly skilled professionals who are always ready to help you out. I would recommend them to anyone who is looking for a reliable software development company."
+        },
+        {
+          "id": 4,
+          "image": "/images/home/persons/person4.png",
+          "name": "Ricky Aprilia",
+          "position": "Founder of Varibo",
+          "quote": "I have been working with QUH Dock for a 4-year now and I must say that they are the best in the business. They have a team of highly skilled professionals who are always ready to help you out. I would recommend them to anyone who is looking for a reliable software development company."
+        }
+      ]
+    },
+    "location": {
+      "heading": {
+        "black": "Our",
+        "blue": "Location"
+      },
+      "locations": [
+        {
+          "city": "New York",
+          "country": "USA"
+        },
+        {
+          "city": "Lahore",
+          "country": "Pakistan"
+        },
+        {
+          "city": "Sweden",
+          "country": "Europe"
+        }
+      ]
+    }
+  },
+  "team": {
+    "employeesData": [
+      {
+        "id": 1,
+        "hero": {
+          "title": {
+            "white1": "Hey, I’m",
+            "blue": "QUHDOCK",
+            "white2": "Fullstack Developer"
+          },
+          "description": "Fullstack Developer { REACT / MERN STACK }",
+          "image": "/images/team/Employee1.svg"
+        },
+        "experience": {
+          "heading": {
+            "blue1": 4,
+            "black": "Years of",
+            "blue2": "Experience"
+          },
+          "who": "Who am I",
+          "about": {
+            "blue": "About",
+            "Me": "Me"
+          },
+          "description": "I'm a bespoke FullStack Web Developer looking to facilitate the creation of modern and aesthetically pleasing websites, applications, and everything in between. I enjoy developing clean and slick Websites & Applications that provide real value to the end user.I enjoy developing clean and slick Websites & Applications that provide real value to the end user."
+        },
+        "projects": {
+          "heading": {
+            "white": "Our Featured",
+            "blue": "Projects",
+            "backgroundText": "Portfolio"
+          },
+          "innovations": [
+            {
+              "backgroundNumber": "1",
+              "field": "Web Development",
+              "title": "SysPos",
+              "description": "This project is based on Stack: NodeJs, Angular, MySQL, AWS We have developed a point of sale system that covers all the essential retail management areas with ease. Features included in our product are Real Time Dashboard, Inventory Management, Kitchen Dispaly System, Suppliers Management System, Cloudbased Secured System, KPI's & Reporting, Sales Review & Analysis, Product Management All these features make our product a worthy choice.",
+              "technologies": [
+                {
+                  "name": "React Js",
+                  "icon": "NodeJs"
+                },
+                {
+                  "name": "Node js",
+                  "icon": "Angular"
+                },
+                {
+                  "name": "Angular",
+                  "icon": "MySQL"
+                }
+              ],
+              "image": "/images/portfolio/SysPos.svg"
+            },
+            {
+              "backgroundNumber": "2",
+              "field": "Web Development",
+              "title": "SysPos",
+              "description": "This project is based on Stack: NodeJs, Angular, MySQL, AWS We have developed a point of sale system that covers all the essential retail management areas with ease. Features included in our product are Real Time Dashboard, Inventory Management, Kitchen Dispaly System, Suppliers Management System, Cloudbased Secured System, KPI's & Reporting, Sales Review & Analysis, Product Management All these features make our product a worthy choice.",
+              "technologies": [
+                {
+                  "name": "React Js",
+                  "icon": "NodeJs"
+                },
+                {
+                  "name": "Node js",
+                  "icon": "Angular"
+                },
+                {
+                  "name": "Angular",
+                  "icon": "MySQL"
+                }
+              ],
+              "image": "/images/portfolio/Crypto.svg"
+            },
+            {
+              "backgroundNumber": "3",
+              "field": "Web Development",
+              "title": "SysPos",
+              "description": "This project is based on Stack: NodeJs, Angular, MySQL, AWS We have developed a point of sale system that covers all the essential retail management areas with ease. Features included in our product are Real Time Dashboard, Inventory Management, Kitchen Dispaly System, Suppliers Management System, Cloudbased Secured System, KPI's & Reporting, Sales Review & Analysis, Product Management All these features make our product a worthy choice.",
+              "technologies": [
+                {
+                  "name": "React Js",
+                  "icon": "NodeJs"
+                },
+                {
+                  "name": "Node js",
+                  "icon": "Angular"
+                },
+                {
+                  "name": "Angular",
+                  "icon": "MySQL"
+                }
+              ],
+              "image": "/images/portfolio/SpaceWar.svg"
+            },
+            {
+              "backgroundNumber": "4",
+              "field": "Web Development",
+              "title": "SysPos",
+              "description": "This project is based on Stack: NodeJs, Angular, MySQL, AWS We have developed a point of sale system that covers all the essential retail management areas with ease. Features included in our product are Real Time Dashboard, Inventory Management, Kitchen Dispaly System, Suppliers Management System, Cloudbased Secured System, KPI's & Reporting, Sales Review & Analysis, Product Management All these features make our product a worthy choice.",
+              "technologies": [
+                {
+                  "name": "React Js",
+                  "icon": "NodeJs"
+                },
+                {
+                  "name": "Node js",
+                  "icon": "Angular"
+                },
+                {
+                  "name": "Angular",
+                  "icon": "MySQL"
+                }
+              ],
+              "image": "/images/portfolio/TurnStudio.svg"
+            }
+          ]
+        }
+      },
+      {
+        "id": 2,
+        "hero": {
+          "title": {
+            "white1": "Hey, I’m",
+            "blue": "QUHDOCK",
+            "white2": "Fullstack Developer"
+          },
+          "description": "Fullstack Developer { REACT / MERN STACK }",
+          "image": "/images/team/Employee1.svg"
+        },
+        "experience": {
+          "heading": {
+            "blue1": 4,
+            "black": "Years of",
+            "blue2": "Experience"
+          },
+          "who": "Who am I",
+          "about": {
+            "blue": "About",
+            "Me": "Me"
+          },
+          "description": "I'm a bespoke FullStack Web Developer looking to facilitate the creation of modern and aesthetically pleasing websites, applications, and everything in between. I enjoy developing clean and slick Websites & Applications that provide real value to the end user.I enjoy developing clean and slick Websites & Applications that provide real value to the end user."
+        },
+        "projects": {
+          "heading": {
+            "white": "Our Featured",
+            "blue": "Projects",
+            "backgroundText": "Portfolio"
+          },
+          "innovations": [
+            {
+              "backgroundNumber": "1",
+              "field": "Web Development",
+              "title": "SysPos",
+              "description": "This project is based on Stack: NodeJs, Angular, MySQL, AWS We have developed a point of sale system that covers all the essential retail management areas with ease. Features included in our product are Real Time Dashboard, Inventory Management, Kitchen Dispaly System, Suppliers Management System, Cloudbased Secured System, KPI's & Reporting, Sales Review & Analysis, Product Management All these features make our product a worthy choice.",
+              "technologies": [
+                {
+                  "name": "React Js",
+                  "icon": "NodeJs"
+                },
+                {
+                  "name": "Node js",
+                  "icon": "Angular"
+                },
+                {
+                  "name": "Angular",
+                  "icon": "MySQL"
+                }
+              ],
+              "image": "/images/portfolio/SysPos.svg"
+            },
+            {
+              "backgroundNumber": "2",
+              "field": "Web Development",
+              "title": "SysPos",
+              "description": "This project is based on Stack: NodeJs, Angular, MySQL, AWS We have developed a point of sale system that covers all the essential retail management areas with ease. Features included in our product are Real Time Dashboard, Inventory Management, Kitchen Dispaly System, Suppliers Management System, Cloudbased Secured System, KPI's & Reporting, Sales Review & Analysis, Product Management All these features make our product a worthy choice.",
+              "technologies": [
+                {
+                  "name": "React Js",
+                  "icon": "NodeJs"
+                },
+                {
+                  "name": "Node js",
+                  "icon": "Angular"
+                },
+                {
+                  "name": "Angular",
+                  "icon": "MySQL"
+                }
+              ],
+              "image": "/images/portfolio/Crypto.svg"
+            },
+            {
+              "backgroundNumber": "3",
+              "field": "Web Development",
+              "title": "SysPos",
+              "description": "This project is based on Stack: NodeJs, Angular, MySQL, AWS We have developed a point of sale system that covers all the essential retail management areas with ease. Features included in our product are Real Time Dashboard, Inventory Management, Kitchen Dispaly System, Suppliers Management System, Cloudbased Secured System, KPI's & Reporting, Sales Review & Analysis, Product Management All these features make our product a worthy choice.",
+              "technologies": [
+                {
+                  "name": "React Js",
+                  "icon": "NodeJs"
+                },
+                {
+                  "name": "Node js",
+                  "icon": "Angular"
+                },
+                {
+                  "name": "Angular",
+                  "icon": "MySQL"
+                }
+              ],
+              "image": "/images/portfolio/SpaceWar.svg"
+            },
+            {
+              "backgroundNumber": "4",
+              "field": "Web Development",
+              "title": "SysPos",
+              "description": "This project is based on Stack: NodeJs, Angular, MySQL, AWS We have developed a point of sale system that covers all the essential retail management areas with ease. Features included in our product are Real Time Dashboard, Inventory Management, Kitchen Dispaly System, Suppliers Management System, Cloudbased Secured System, KPI's & Reporting, Sales Review & Analysis, Product Management All these features make our product a worthy choice.",
+              "technologies": [
+                {
+                  "name": "React Js",
+                  "icon": "NodeJs"
+                },
+                {
+                  "name": "Node js",
+                  "icon": "Angular"
+                },
+                {
+                  "name": "Angular",
+                  "icon": "MySQL"
+                }
+              ],
+              "image": "/images/portfolio/TurnStudio.svg"
+            }
+          ]
+        }
+      },
+      {
+        "id": 3,
+        "hero": {
+          "title": {
+            "white1": "Hey, I’m",
+            "blue": "QUHDOCK",
+            "white2": "Fullstack Developer"
+          },
+          "description": "Fullstack Developer { REACT / MERN STACK }",
+          "image": "/images/team/Employee1.svg"
+        },
+        "experience": {
+          "heading": {
+            "blue1": 4,
+            "black": "Years of",
+            "blue2": "Experience"
+          },
+          "who": "Who am I",
+          "about": {
+            "blue": "About",
+            "Me": "Me"
+          },
+          "description": "I'm a bespoke FullStack Web Developer looking to facilitate the creation of modern and aesthetically pleasing websites, applications, and everything in between. I enjoy developing clean and slick Websites & Applications that provide real value to the end user.I enjoy developing clean and slick Websites & Applications that provide real value to the end user."
+        },
+        "projects": {
+          "heading": {
+            "white": "Our Featured",
+            "blue": "Projects",
+            "backgroundText": "Portfolio"
+          },
+          "innovations": [
+            {
+              "backgroundNumber": "1",
+              "field": "Web Development",
+              "title": "SysPos",
+              "description": "This project is based on Stack: NodeJs, Angular, MySQL, AWS We have developed a point of sale system that covers all the essential retail management areas with ease. Features included in our product are Real Time Dashboard, Inventory Management, Kitchen Dispaly System, Suppliers Management System, Cloudbased Secured System, KPI's & Reporting, Sales Review & Analysis, Product Management All these features make our product a worthy choice.",
+              "technologies": [
+                {
+                  "name": "React Js",
+                  "icon": "NodeJs"
+                },
+                {
+                  "name": "Node js",
+                  "icon": "Angular"
+                },
+                {
+                  "name": "Angular",
+                  "icon": "MySQL"
+                }
+              ],
+              "image": "/images/portfolio/SysPos.svg"
+            },
+            {
+              "backgroundNumber": "2",
+              "field": "Web Development",
+              "title": "SysPos",
+              "description": "This project is based on Stack: NodeJs, Angular, MySQL, AWS We have developed a point of sale system that covers all the essential retail management areas with ease. Features included in our product are Real Time Dashboard, Inventory Management, Kitchen Dispaly System, Suppliers Management System, Cloudbased Secured System, KPI's & Reporting, Sales Review & Analysis, Product Management All these features make our product a worthy choice.",
+              "technologies": [
+                {
+                  "name": "React Js",
+                  "icon": "NodeJs"
+                },
+                {
+                  "name": "Node js",
+                  "icon": "Angular"
+                },
+                {
+                  "name": "Angular",
+                  "icon": "MySQL"
+                }
+              ],
+              "image": "/images/portfolio/Crypto.svg"
+            },
+            {
+              "backgroundNumber": "3",
+              "field": "Web Development",
+              "title": "SysPos",
+              "description": "This project is based on Stack: NodeJs, Angular, MySQL, AWS We have developed a point of sale system that covers all the essential retail management areas with ease. Features included in our product are Real Time Dashboard, Inventory Management, Kitchen Dispaly System, Suppliers Management System, Cloudbased Secured System, KPI's & Reporting, Sales Review & Analysis, Product Management All these features make our product a worthy choice.",
+              "technologies": [
+                {
+                  "name": "React Js",
+                  "icon": "NodeJs"
+                },
+                {
+                  "name": "Node js",
+                  "icon": "Angular"
+                },
+                {
+                  "name": "Angular",
+                  "icon": "MySQL"
+                }
+              ],
+              "image": "/images/portfolio/SpaceWar.svg"
+            },
+            {
+              "backgroundNumber": "4",
+              "field": "Web Development",
+              "title": "SysPos",
+              "description": "This project is based on Stack: NodeJs, Angular, MySQL, AWS We have developed a point of sale system that covers all the essential retail management areas with ease. Features included in our product are Real Time Dashboard, Inventory Management, Kitchen Dispaly System, Suppliers Management System, Cloudbased Secured System, KPI's & Reporting, Sales Review & Analysis, Product Management All these features make our product a worthy choice.",
+              "technologies": [
+                {
+                  "name": "React Js",
+                  "icon": "NodeJs"
+                },
+                {
+                  "name": "Node js",
+                  "icon": "Angular"
+                },
+                {
+                  "name": "Angular",
+                  "icon": "MySQL"
+                }
+              ],
+              "image": "/images/portfolio/TurnStudio.svg"
+            }
+          ]
+        }
+      },
+      {
+        "id": 4,
+        "hero": {
+          "title": {
+            "white1": "Hey, I’m",
+            "blue": "QUHDOCK",
+            "white2": "Fullstack Developer"
+          },
+          "description": "Fullstack Developer { REACT / MERN STACK }",
+          "image": "/images/team/Employee1.svg"
+        },
+        "experience": {
+          "heading": {
+            "blue1": 4,
+            "black": "Years of",
+            "blue2": "Experience"
+          },
+          "who": "Who am I",
+          "about": {
+            "blue": "About",
+            "Me": "Me"
+          },
+          "description": "I'm a bespoke FullStack Web Developer looking to facilitate the creation of modern and aesthetically pleasing websites, applications, and everything in between. I enjoy developing clean and slick Websites & Applications that provide real value to the end user.I enjoy developing clean and slick Websites & Applications that provide real value to the end user."
+        },
+        "projects": {
+          "heading": {
+            "white": "Our Featured",
+            "blue": "Projects",
+            "backgroundText": "Portfolio"
+          },
+          "innovations": [
+            {
+              "backgroundNumber": "1",
+              "field": "Web Development",
+              "title": "SysPos",
+              "description": "This project is based on Stack: NodeJs, Angular, MySQL, AWS We have developed a point of sale system that covers all the essential retail management areas with ease. Features included in our product are Real Time Dashboard, Inventory Management, Kitchen Dispaly System, Suppliers Management System, Cloudbased Secured System, KPI's & Reporting, Sales Review & Analysis, Product Management All these features make our product a worthy choice.",
+              "technologies": [
+                {
+                  "name": "React Js",
+                  "icon": "NodeJs"
+                },
+                {
+                  "name": "Node js",
+                  "icon": "Angular"
+                },
+                {
+                  "name": "Angular",
+                  "icon": "MySQL"
+                }
+              ],
+              "image": "/images/portfolio/SysPos.svg"
+            },
+            {
+              "backgroundNumber": "2",
+              "field": "Web Development",
+              "title": "SysPos",
+              "description": "This project is based on Stack: NodeJs, Angular, MySQL, AWS We have developed a point of sale system that covers all the essential retail management areas with ease. Features included in our product are Real Time Dashboard, Inventory Management, Kitchen Dispaly System, Suppliers Management System, Cloudbased Secured System, KPI's & Reporting, Sales Review & Analysis, Product Management All these features make our product a worthy choice.",
+              "technologies": [
+                {
+                  "name": "React Js",
+                  "icon": "NodeJs"
+                },
+                {
+                  "name": "Node js",
+                  "icon": "Angular"
+                },
+                {
+                  "name": "Angular",
+                  "icon": "MySQL"
+                }
+              ],
+              "image": "/images/portfolio/Crypto.svg"
+            },
+            {
+              "backgroundNumber": "3",
+              "field": "Web Development",
+              "title": "SysPos",
+              "description": "This project is based on Stack: NodeJs, Angular, MySQL, AWS We have developed a point of sale system that covers all the essential retail management areas with ease. Features included in our product are Real Time Dashboard, Inventory Management, Kitchen Dispaly System, Suppliers Management System, Cloudbased Secured System, KPI's & Reporting, Sales Review & Analysis, Product Management All these features make our product a worthy choice.",
+              "technologies": [
+                {
+                  "name": "React Js",
+                  "icon": "NodeJs"
+                },
+                {
+                  "name": "Node js",
+                  "icon": "Angular"
+                },
+                {
+                  "name": "Angular",
+                  "icon": "MySQL"
+                }
+              ],
+              "image": "/images/portfolio/SpaceWar.svg"
+            },
+            {
+              "backgroundNumber": "4",
+              "field": "Web Development",
+              "title": "SysPos",
+              "description": "This project is based on Stack: NodeJs, Angular, MySQL, AWS We have developed a point of sale system that covers all the essential retail management areas with ease. Features included in our product are Real Time Dashboard, Inventory Management, Kitchen Dispaly System, Suppliers Management System, Cloudbased Secured System, KPI's & Reporting, Sales Review & Analysis, Product Management All these features make our product a worthy choice.",
+              "technologies": [
+                {
+                  "name": "React Js",
+                  "icon": "NodeJs"
+                },
+                {
+                  "name": "Node js",
+                  "icon": "Angular"
+                },
+                {
+                  "name": "Angular",
+                  "icon": "MySQL"
+                }
+              ],
+              "image": "/images/portfolio/TurnStudio.svg"
+            }
+          ]
+        }
+      },
+      {
+        "id": 5,
+        "hero": {
+          "title": {
+            "white1": "Hey, I’m",
+            "blue": "QUHDOCK",
+            "white2": "Fullstack Developer"
+          },
+          "description": "Fullstack Developer { REACT / MERN STACK }",
+          "image": "/images/team/Employee1.svg"
+        },
+        "experience": {
+          "heading": {
+            "blue1": 4,
+            "black": "Years of",
+            "blue2": "Experience"
+          },
+          "who": "Who am I",
+          "about": {
+            "blue": "About",
+            "Me": "Me"
+          },
+          "description": "I'm a bespoke FullStack Web Developer looking to facilitate the creation of modern and aesthetically pleasing websites, applications, and everything in between. I enjoy developing clean and slick Websites & Applications that provide real value to the end user.I enjoy developing clean and slick Websites & Applications that provide real value to the end user."
+        },
+        "projects": {
+          "heading": {
+            "white": "Our Featured",
+            "blue": "Projects",
+            "backgroundText": "Portfolio"
+          },
+          "innovations": [
+            {
+              "backgroundNumber": "1",
+              "field": "Web Development",
+              "title": "SysPos",
+              "description": "This project is based on Stack: NodeJs, Angular, MySQL, AWS We have developed a point of sale system that covers all the essential retail management areas with ease. Features included in our product are Real Time Dashboard, Inventory Management, Kitchen Dispaly System, Suppliers Management System, Cloudbased Secured System, KPI's & Reporting, Sales Review & Analysis, Product Management All these features make our product a worthy choice.",
+              "technologies": [
+                {
+                  "name": "React Js",
+                  "icon": "NodeJs"
+                },
+                {
+                  "name": "Node js",
+                  "icon": "Angular"
+                },
+                {
+                  "name": "Angular",
+                  "icon": "MySQL"
+                }
+              ],
+              "image": "/images/portfolio/SysPos.svg"
+            },
+            {
+              "backgroundNumber": "2",
+              "field": "Web Development",
+              "title": "SysPos",
+              "description": "This project is based on Stack: NodeJs, Angular, MySQL, AWS We have developed a point of sale system that covers all the essential retail management areas with ease. Features included in our product are Real Time Dashboard, Inventory Management, Kitchen Dispaly System, Suppliers Management System, Cloudbased Secured System, KPI's & Reporting, Sales Review & Analysis, Product Management All these features make our product a worthy choice.",
+              "technologies": [
+                {
+                  "name": "React Js",
+                  "icon": "NodeJs"
+                },
+                {
+                  "name": "Node js",
+                  "icon": "Angular"
+                },
+                {
+                  "name": "Angular",
+                  "icon": "MySQL"
+                }
+              ],
+              "image": "/images/portfolio/Crypto.svg"
+            },
+            {
+              "backgroundNumber": "3",
+              "field": "Web Development",
+              "title": "SysPos",
+              "description": "This project is based on Stack: NodeJs, Angular, MySQL, AWS We have developed a point of sale system that covers all the essential retail management areas with ease. Features included in our product are Real Time Dashboard, Inventory Management, Kitchen Dispaly System, Suppliers Management System, Cloudbased Secured System, KPI's & Reporting, Sales Review & Analysis, Product Management All these features make our product a worthy choice.",
+              "technologies": [
+                {
+                  "name": "React Js",
+                  "icon": "NodeJs"
+                },
+                {
+                  "name": "Node js",
+                  "icon": "Angular"
+                },
+                {
+                  "name": "Angular",
+                  "icon": "MySQL"
+                }
+              ],
+              "image": "/images/portfolio/SpaceWar.svg"
+            },
+            {
+              "backgroundNumber": "4",
+              "field": "Web Development",
+              "title": "SysPos",
+              "description": "This project is based on Stack: NodeJs, Angular, MySQL, AWS We have developed a point of sale system that covers all the essential retail management areas with ease. Features included in our product are Real Time Dashboard, Inventory Management, Kitchen Dispaly System, Suppliers Management System, Cloudbased Secured System, KPI's & Reporting, Sales Review & Analysis, Product Management All these features make our product a worthy choice.",
+              "technologies": [
+                {
+                  "name": "React Js",
+                  "icon": "NodeJs"
+                },
+                {
+                  "name": "Node js",
+                  "icon": "Angular"
+                },
+                {
+                  "name": "Angular",
+                  "icon": "MySQL"
+                }
+              ],
+              "image": "/images/portfolio/TurnStudio.svg"
+            }
+          ]
+        }
+      },
+      {
+        "id": 6,
+        "hero": {
+          "title": {
+            "white1": "Hey, I’m",
+            "blue": "QUHDOCK",
+            "white2": "Fullstack Developer"
+          },
+          "description": "Fullstack Developer { REACT / MERN STACK }",
+          "image": "/images/team/Employee1.svg"
+        },
+        "experience": {
+          "heading": {
+            "blue1": 4,
+            "black": "Years of",
+            "blue2": "Experience"
+          },
+          "who": "Who am I",
+          "about": {
+            "blue": "About",
+            "Me": "Me"
+          },
+          "description": "I'm a bespoke FullStack Web Developer looking to facilitate the creation of modern and aesthetically pleasing websites, applications, and everything in between. I enjoy developing clean and slick Websites & Applications that provide real value to the end user.I enjoy developing clean and slick Websites & Applications that provide real value to the end user."
+        },
+        "projects": {
+          "heading": {
+            "white": "Our Featured",
+            "blue": "Projects",
+            "backgroundText": "Portfolio"
+          },
+          "innovations": [
+            {
+              "backgroundNumber": "1",
+              "field": "Web Development",
+              "title": "SysPos",
+              "description": "This project is based on Stack: NodeJs, Angular, MySQL, AWS We have developed a point of sale system that covers all the essential retail management areas with ease. Features included in our product are Real Time Dashboard, Inventory Management, Kitchen Dispaly System, Suppliers Management System, Cloudbased Secured System, KPI's & Reporting, Sales Review & Analysis, Product Management All these features make our product a worthy choice.",
+              "technologies": [
+                {
+                  "name": "React Js",
+                  "icon": "NodeJs"
+                },
+                {
+                  "name": "Node js",
+                  "icon": "Angular"
+                },
+                {
+                  "name": "Angular",
+                  "icon": "MySQL"
+                }
+              ],
+              "image": "/images/portfolio/SysPos.svg"
+            },
+            {
+              "backgroundNumber": "2",
+              "field": "Web Development",
+              "title": "SysPos",
+              "description": "This project is based on Stack: NodeJs, Angular, MySQL, AWS We have developed a point of sale system that covers all the essential retail management areas with ease. Features included in our product are Real Time Dashboard, Inventory Management, Kitchen Dispaly System, Suppliers Management System, Cloudbased Secured System, KPI's & Reporting, Sales Review & Analysis, Product Management All these features make our product a worthy choice.",
+              "technologies": [
+                {
+                  "name": "React Js",
+                  "icon": "NodeJs"
+                },
+                {
+                  "name": "Node js",
+                  "icon": "Angular"
+                },
+                {
+                  "name": "Angular",
+                  "icon": "MySQL"
+                }
+              ],
+              "image": "/images/portfolio/Crypto.svg"
+            },
+            {
+              "backgroundNumber": "3",
+              "field": "Web Development",
+              "title": "SysPos",
+              "description": "This project is based on Stack: NodeJs, Angular, MySQL, AWS We have developed a point of sale system that covers all the essential retail management areas with ease. Features included in our product are Real Time Dashboard, Inventory Management, Kitchen Dispaly System, Suppliers Management System, Cloudbased Secured System, KPI's & Reporting, Sales Review & Analysis, Product Management All these features make our product a worthy choice.",
+              "technologies": [
+                {
+                  "name": "React Js",
+                  "icon": "NodeJs"
+                },
+                {
+                  "name": "Node js",
+                  "icon": "Angular"
+                },
+                {
+                  "name": "Angular",
+                  "icon": "MySQL"
+                }
+              ],
+              "image": "/images/portfolio/SpaceWar.svg"
+            },
+            {
+              "backgroundNumber": "4",
+              "field": "Web Development",
+              "title": "SysPos",
+              "description": "This project is based on Stack: NodeJs, Angular, MySQL, AWS We have developed a point of sale system that covers all the essential retail management areas with ease. Features included in our product are Real Time Dashboard, Inventory Management, Kitchen Dispaly System, Suppliers Management System, Cloudbased Secured System, KPI's & Reporting, Sales Review & Analysis, Product Management All these features make our product a worthy choice.",
+              "technologies": [
+                {
+                  "name": "React Js",
+                  "icon": "NodeJs"
+                },
+                {
+                  "name": "Node js",
+                  "icon": "Angular"
+                },
+                {
+                  "name": "Angular",
+                  "icon": "MySQL"
+                }
+              ],
+              "image": "/images/portfolio/TurnStudio.svg"
+            }
+          ]
+        }
+      }
+    ],
+    "teachStacks": {
+      "heading": {
+        "black": "Technologies We",
+        "blue": "Work With"
+      },
+      "stacks": [
+        {
+          "title": "Front end",
+          "icons": [
+            "icons/about/techStack/Ionic.svg",
+            "icons/about/techStack/Unity.svg",
+            "icons/about/techStack/Flutter.svg",
+            "icons/about/techStack/React.svg",
+            "icons/about/techStack/Java.svg",
+            "icons/about/techStack/CPlusPlus.svg",
+            "icons/about/techStack/Ios.svg",
+            "icons/about/techStack/Android.svg"
+          ]
+        },
+        {
+          "title": "Backend",
+          "icons": [
+            "icons/about/techStack/Ionic.svg",
+            "icons/about/techStack/Unity.svg",
+            "icons/about/techStack/Flutter.svg",
+            "icons/about/techStack/React.svg",
+            "icons/about/techStack/Java.svg",
+            "icons/about/techStack/CPlusPlus.svg",
+            "icons/about/techStack/Ios.svg",
+            "icons/about/techStack/Android.svg"
+          ]
+        },
+        {
+          "title": "Mobile",
+          "icons": [
+            "icons/about/techStack/Ionic.svg",
+            "icons/about/techStack/Unity.svg",
+            "icons/about/techStack/Flutter.svg",
+            "icons/about/techStack/React.svg",
+            "icons/about/techStack/Java.svg",
+            "icons/about/techStack/CPlusPlus.svg",
+            "icons/about/techStack/Ios.svg",
+            "icons/about/techStack/Android.svg"
+          ]
+        },
+        {
+          "title": "Database",
+          "icons": [
+            "icons/about/techStack/Ionic.svg",
+            "icons/about/techStack/Unity.svg",
+            "icons/about/techStack/Flutter.svg",
+            "icons/about/techStack/React.svg",
+            "icons/about/techStack/Java.svg",
+            "icons/about/techStack/CPlusPlus.svg",
+            "icons/about/techStack/Ios.svg",
+            "icons/about/techStack/Android.svg"
+          ]
+        },
+        {
+          "title": "Full Stack",
+          "icons": [
+            "icons/about/techStack/Ionic.svg",
+            "icons/about/techStack/Unity.svg",
+            "icons/about/techStack/Flutter.svg",
+            "icons/about/techStack/React.svg",
+            "icons/about/techStack/Java.svg",
+            "icons/about/techStack/CPlusPlus.svg",
+            "icons/about/techStack/Ios.svg",
+            "icons/about/techStack/Android.svg"
+          ]
+        },
+        {
+          "title": "CMS & eCommerce",
+          "icons": [
+            "icons/about/techStack/Ionic.svg",
+            "icons/about/techStack/Unity.svg",
+            "icons/about/techStack/Flutter.svg",
+            "icons/about/techStack/React.svg",
+            "icons/about/techStack/Java.svg",
+            "icons/about/techStack/CPlusPlus.svg",
+            "icons/about/techStack/Ios.svg",
+            "icons/about/techStack/Android.svg"
+          ]
+        }
+      ]
+    },
+    "clients": {
+      "heading": {
+        "black": "Let’s Hear What",
+        "blue": "They Says"
+      },
+      "clientsReviews": [
+        {
+          "id": 1,
+          "image": "/images/home/persons/person1.png",
+          "name": "Ricky Aprilia",
+          "position": "Founder of Varibo",
+          "quote": "I have been working with QUH Dock for a long 1-year now and I must say that they are the best in the business. They have a team of highly skilled professionals who are always ready to help you out. I would recommend them to anyone who is looking for a reliable software development company."
+        },
+        {
+          "id": 2,
+          "image": "/images/home/persons/person2.png",
+          "name": "Ricky Aprilia",
+          "position": "Founder of Varibo",
+          "quote": "I have been working with QUH Dock for a 2-year now and I must say that they are the best in the business. They have a team of highly skilled professionals who are always ready to help you out. I would recommend them to anyone who is looking for a reliable software development company."
+        },
+        {
+          "id": 3,
+          "image": "/images/home/persons/person3.png",
+          "name": "Ricky Aprilia",
+          "position": "Founder of Varibo",
+          "quote": "I have been working with QUH Dock for a 3-year now and I must say that they are the best in the business. They have a team of highly skilled professionals who are always ready to help you out. I would recommend them to anyone who is looking for a reliable software development company."
+        },
+        {
+          "id": 4,
+          "image": "/images/home/persons/person4.png",
+          "name": "Ricky Aprilia",
+          "position": "Founder of Varibo",
+          "quote": "I have been working with QUH Dock for a 4-year now and I must say that they are the best in the business. They have a team of highly skilled professionals who are always ready to help you out. I would recommend them to anyone who is looking for a reliable software development company."
+        }
+      ]
+    }
+  },
+  "blog": {
+    "featuredBlogs": [
+      {
+        "image": "/images/blog/featured1.svg",
+        "title": "12 Simple Tips to Creating an Effective",
+        "author": "Eleandor Pena"
+      },
+      {
+        "image": "/images/blog/featured2.svg",
+        "title": "5 Simple Tips to Creating poster",
+        "author": "Jane Copper"
+      },
+      {
+        "image": "/images/blog/featured3.svg",
+        "title": "12 Simple Tips to Creating an Effective",
+        "author": "Jerome Bell"
+      },
+      {
+        "image": "/images/blog/featured4.svg",
+        "title": "5 Simple Tips to Creating poster",
+        "author": "Jane Copper"
+      }
+    ],
+    "posts": [
+      {
+        "id": 1,
+        "title": "Why you Need to Know Web Development",
+        "author": {
+          "name": "Eleandor Pena",
+          "authorImage": "/images/blog/author1.svg"
+        },
+        "date": "12th May 2021",
+        "blogImage": "/images/blog/post1.svg",
+        "shortDescription": "Nunc nulla vestibulum nunc quam arcu tristique convallis. Fringilla morbi etiam turpis nisl nunc Imperdiet risus consectetur dignissim lorem sollicitudin eget bibendum pellentesque nec. Adipiscing viverra in non euismod. Amet nulla..."
+      },
+      {
+        "id": 2,
+        "title": "Why you Need to Know Web Development",
+        "author": {
+          "name": "Ahmad Raza",
+          "authorImage": "/images/blog/author2.svg"
+        },
+        "date": "June 12, 2020",
+        "blogImage": "/images/blog/post2.svg",
+        "shortDescription": "Nunc nulla vestibulum nunc quam arcu tristique convallis. Fringilla morbi etiam turpis nisl nunc Imperdiet risus consectetur dignissim lorem sollicitudin eget bibendum pellentesque nec. Adipiscing viverra in non euismod. Amet nulla..."
+      },
+      {
+        "id": 3,
+        "title": "Why you Need to Know Web Development",
+        "author": {
+          "name": "Ahmad Raza",
+          "authorImage": "/images/blog/author3.svg"
+        },
+        "date": "June 12, 2020",
+        "blogImage": "/images/blog/post3.svg",
+        "shortDescription": "Nunc nulla vestibulum nunc quam arcu tristique convallis. Fringilla morbi etiam turpis nisl nunc Imperdiet risus consectetur dignissim lorem sollicitudin eget bibendum pellentesque nec. Adipiscing viverra in non euismod. Amet nulla..."
+      }
+    ],
+    "postDetails": [
+      {
+        "id": 1,
+        "image": "/images/blog/post1.svg",
+        "title": "Why you Need to Know Web Development",
+        "details": [
+          {
+            "title": "Vulputate vitae pellentesque scelerisque luctus consequat mattis pellentesque dui odio. Interdum aenean sit malesuada ornare sed gravida rhoncus, congue. Purus auctor nullam diam quis est hendrerit ac euismod. ",
+            "description": [
+              "At facilisi sapien posuere eget nunc senectus proin nullam. Tortor senectus in et sagittis, vitae diam cras dignissim. Varius adipiscing eget diam nisi. Orci, consectetur vulputate metus ornare pharetra, neque, fermentum. Vel nec rhoncus, non nunc, neque in massa. Feugiat leo nam nisl lacinia amet, odio. Mi varius viverra risus vel.",
+              "Amet, morbi sed pharetra, elit eget mi potenti. Condimentum orci interdum feugiat lectus libero duis. Nisl massa, elementum varius sit. Nunc felis, porttitor aliquam urna, accumsan et sed. Aliquet non sed duis diam vehicula rhoncus. In dictum nullam tincidunt semper pellentesque purus morbi sed. Ut aliquet velit pharetra, nisi nunc, non."
+            ]
+          },
+          {
+            "title": "Reduces Development Cost",
+            "description": [
+              "Developing a functional and well-designed mobile application for your target audience is not inexpensive. That is why the cost tag is usually the first thing companies consider before going ahead with the application development. Mobile application development will cost you less when you outsource an entire development project to an impeccable mobile app agency. You don’t have to hire new employees. Also, you don’t have to worry about extra payroll issues. You don’t have to deal with paid leave or sick days."
+            ]
+          },
+          {
+            "title": "Delivers Better Quality",
+            "description": [
+              "Mobile application outsourcing provides an opportunity to delegate the task to experts with a proven track record to deliver the best quality work on budget and on time. You can focus on your resources and the company’s core competencies this way. When experienced professionals are handling the development, you can rest assured of expert-grade work, on-time delivery, and fast turnaround. For example, if you are an eCommerce store, outsourcing your e-store application to the appropriate agency means that your staff will pay attention to customer service, marketing, and other things to boost your online sales. "
+            ]
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "image": "/images/blog/post2.svg",
+        "title": "Why you Need to Know Web Development",
+        "details": [
+          {
+            "title": "Vulputate vitae pellentesque scelerisque luctus consequat mattis pellentesque dui odio. Interdum aenean sit malesuada ornare sed gravida rhoncus, congue. Purus auctor nullam diam quis est hendrerit ac euismod. ",
+            "description": [
+              "At facilisi sapien posuere eget nunc senectus proin nullam. Tortor senectus in et sagittis, vitae diam cras dignissim. Varius adipiscing eget diam nisi. Orci, consectetur vulputate metus ornare pharetra, neque, fermentum. Vel nec rhoncus, non nunc, neque in massa. Feugiat leo nam nisl lacinia amet, odio. Mi varius viverra risus vel.",
+              "Amet, morbi sed pharetra, elit eget mi potenti. Condimentum orci interdum feugiat lectus libero duis. Nisl massa, elementum varius sit. Nunc felis, porttitor aliquam urna, accumsan et sed. Aliquet non sed duis diam vehicula rhoncus. In dictum nullam tincidunt semper pellentesque purus morbi sed. Ut aliquet velit pharetra, nisi nunc, non."
+            ]
+          },
+          {
+            "title": "Reduces Development Cost",
+            "description": [
+              "Developing a functional and well-designed mobile application for your target audience is not inexpensive. That is why the cost tag is usually the first thing companies consider before going ahead with the application development. Mobile application development will cost you less when you outsource an entire development project to an impeccable mobile app agency. You don’t have to hire new employees. Also, you don’t have to worry about extra payroll issues. You don’t have to deal with paid leave or sick days."
+            ]
+          },
+          {
+            "title": "Delivers Better Quality",
+            "description": [
+              "Mobile application outsourcing provides an opportunity to delegate the task to experts with a proven track record to deliver the best quality work on budget and on time. You can focus on your resources and the company’s core competencies this way. When experienced professionals are handling the development, you can rest assured of expert-grade work, on-time delivery, and fast turnaround. For example, if you are an eCommerce store, outsourcing your e-store application to the appropriate agency means that your staff will pay attention to customer service, marketing, and other things to boost your online sales. "
+            ]
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "image": "/images/blog/post3.svg",
+        "title": "Why you Need to Know Web Development",
+        "details": [
+          {
+            "title": "Vulputate vitae pellentesque scelerisque luctus consequat mattis pellentesque dui odio. Interdum aenean sit malesuada ornare sed gravida rhoncus, congue. Purus auctor nullam diam quis est hendrerit ac euismod. ",
+            "description": [
+              "At facilisi sapien posuere eget nunc senectus proin nullam. Tortor senectus in et sagittis, vitae diam cras dignissim. Varius adipiscing eget diam nisi. Orci, consectetur vulputate metus ornare pharetra, neque, fermentum. Vel nec rhoncus, non nunc, neque in massa. Feugiat leo nam nisl lacinia amet, odio. Mi varius viverra risus vel.",
+              "Amet, morbi sed pharetra, elit eget mi potenti. Condimentum orci interdum feugiat lectus libero duis. Nisl massa, elementum varius sit. Nunc felis, porttitor aliquam urna, accumsan et sed. Aliquet non sed duis diam vehicula rhoncus. In dictum nullam tincidunt semper pellentesque purus morbi sed. Ut aliquet velit pharetra, nisi nunc, non."
+            ]
+          },
+          {
+            "title": "Reduces Development Cost",
+            "description": [
+              "Developing a functional and well-designed mobile application for your target audience is not inexpensive. That is why the cost tag is usually the first thing companies consider before going ahead with the application development. Mobile application development will cost you less when you outsource an entire development project to an impeccable mobile app agency. You don’t have to hire new employees. Also, you don’t have to worry about extra payroll issues. You don’t have to deal with paid leave or sick days."
+            ]
+          },
+          {
+            "title": "Delivers Better Quality",
+            "description": [
+              "Mobile application outsourcing provides an opportunity to delegate the task to experts with a proven track record to deliver the best quality work on budget and on time. You can focus on your resources and the company’s core competencies this way. When experienced professionals are handling the development, you can rest assured of expert-grade work, on-time delivery, and fast turnaround. For example, if you are an eCommerce store, outsourcing your e-store application to the appropriate agency means that your staff will pay attention to customer service, marketing, and other things to boost your online sales. "
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "career": {
+    "hero": {
+      "heading": {
+        "white": "Grow with",
+        "blue": "Us"
+      }
+    },
+    "jobs": [
+      {
+        "id": 1,
+        "title": "NodeJs Developer",
+        "description": "We are looking for a senior NodeJs Developer who must have strong concept of Programming..",
+        "category": "Development",
+        "timeOfPosting": "2 days ago"
+      },
+      {
+        "id": 2,
+        "title": "MERN Stack Developer",
+        "description": "We are looking for a MERN Stack Developer who must have strong concept of Programming..",
+        "category": "Development",
+        "timeOfPosting": "3 days ago"
+      },
+      {
+        "id": 3,
+        "title": "AI Developer",
+        "description": "We are looking for a AI and ML Developer who must have strong concept of Programming..",
+        "category": "Development",
+        "timeOfPosting": "2 days ago"
+      }
+    ],
+    "benefits": {
+      "title": "BENEFITS",
+      "heading": {
+        "black": "How We Care",
+        "blue": "About You"
+      },
+      "description": "Our employees are our most important assets and our key value proposition is employee development and career growth. Our first priority is hiring from within and growing our employees through coaching, mentoring, and training, both internal and external. We also have a range of exciting initiatives including employee engagement, appreciation, and fun activities all year round.",
+      "benefitsList": [
+        {
+          "icon": "/icons/benifits/Loan.svg",
+          "title": "Interest-Free Loans"
+        },
+        {
+          "icon": "/icons/benifits/career.svg",
+          "title": "Professional Career Development"
+        },
+        {
+          "icon": "/icons/benifits/medical.svg",
+          "title": "Medical Allowance"
+        },
+
+        {
+          "icon": "/icons/benifits/support.svg",
+          "title": "Employee Support"
+        },
+        {
+          "icon": "/icons/benifits/bonus.svg",
+          "title": "Annually Performance Bonuses"
+        },
+        {
+          "icon": "/icons/benifits/promotion.svg",
+          "title": "Well-Defined Promotion Cycle"
+        },
+        {
+          "icon": "/icons/benifits/balance.svg",
+          "title": "Work-Life Balance"
+        },
+        {
+          "icon": "/icons/benifits/leavs.svg",
+          "title": "Annual Leaves"
+        },
+        {
+          "icon": "/icons/benifits/lunch.svg",
+          "title": "Quartaly Team Lunches"
+        },
+        {
+          "icon": "/icons/benifits/birthday.svg",
+          "title": "Birthday / Festival Celebration"
+        },
+        {
+          "icon": "/icons/benifits/anualIncrement.svg",
+          "title": "Annual Increments"
+        },
+        {
+          "icon": "/icons/benifits/learning.svg",
+          "title": "Learning and Flexible Environment"
+        }
+      ]
+    },
+    "detailedJob": [
+      {
+        "id": 1,
+        "title": "Node Js Developer",
+        "overview": {
+          "title": "Overview",
+          "description": "Node Js developer"
+        },
+        "responsibilities": {
+          "title": "Responsibilities",
+          "points": [
+            "Develop a full stack of modern frameworks with clean and self-documenting code",
+            "Ability to work alone in a project or lead a small team",
+            "Work on existing projects, understand the codebase by yourself, and develop new features",
+            "Providing innovative web development services that delight our clients",
+            "Attend daily stand-up meetings to provide updates on project status",
+            "Stay up to date on the latest trends in software development and web development",
+            "Abilities from requirements gathering to successful deployment",
+            "Work in a cross-functional team to deliver a complete user experience",
+            "Create Unit and Integration tests to ensure the quality of code",
+            "Documentation skills - good command of the English language"
+          ]
+        },
+        "benefits": {
+          "title": "Benefits",
+          "description": "Developing a functional and well-designed mobile application for your target audience is not inexpensive. That is why the cost tag is usually the first thing companies consider before going ahead with the application development.",
+          "points": [
+            "Dinner after every 3 months",
+            "Salery increment after 6 months",
+            "Fule allowance for outstation employees",
+            "Medical allowance for all employees",
+            "Gym allowance for all employees"
+          ]
+        },
+        "expectations": {
+          "title": "What you can expect from us after applying",
+          "description": "Once you've applied, sit back and relax while we get to work on our side! You can expect to hear back from us within 3 working days. Our recruitment team will call you up on the provided contact number for initial screening. Good luck!"
+        }
+      },
+      {
+        "id": 2,
+        "title": "MERN stack developer",
+        "overview": {
+          "title": "Overview",
+          "description": "MERN stack developer job opertunity is availabe"
+        },
+        "responsibilities": {
+          "title": "Responsibilities",
+          "points": [
+            "Develop a full stack of modern frameworks with clean and self-documenting code",
+            "Ability to work alone in a project or lead a small team",
+            "Work on existing projects, understand the codebase by yourself, and develop new features",
+            "Providing innovative web development services that delight our clients",
+            "Attend daily stand-up meetings to provide updates on project status",
+            "Stay up to date on the latest trends in software development and web development",
+            "Abilities from requirements gathering to successful deployment",
+            "Work in a cross-functional team to deliver a complete user experience",
+            "Create Unit and Integration tests to ensure the quality of code",
+            "Documentation skills - good command of the English language"
+          ]
+        },
+        "benefits": {
+          "title": "Benefits",
+          "description": "Developing a functional and well-designed mobile application for your target audience is not inexpensive. That is why the cost tag is usually the first thing companies consider before going ahead with the application development.",
+          "points": [
+            "Dinner after every 3 months",
+            "Salery increment after 6 months",
+            "Fule allowance for outstation employees",
+            "Medical allowance for all employees",
+            "Gym allowance for all employees"
+          ]
+        },
+        "expectations": {
+          "title": "What you can expect from us after applying",
+          "description": "Once you've applied, sit back and relax while we get to work on our side! You can expect to hear back from us within 3 working days. Our recruitment team will call you up on the provided contact number for initial screening. Good luck!"
+        }
+      },
+      {
+        "id": 3,
+        "title": "AI Developer",
+        "overview": {
+          "title": "Overview",
+          "description": "AI Developer job opertunity is availabe"
+        },
+        "responsibilities": {
+          "title": "Responsibilities",
+          "points": [
+            "Develop a ai Models",
+            "Ability to work alone in a project or lead a small team",
+            "Work on existing projects, understand the codebase by yourself, and develop new features",
+            "Providing innovative web development services that delight our clients",
+            "Attend daily stand-up meetings to provide updates on project status",
+            "Stay up to date on the latest trends in software development and web development"
+          ]
+        },
+        "benefits": {
+          "title": "Benefits",
+          "description": "Developing a functional and well-designed mobile application for your target audience is not inexpensive. That is why the cost tag is usually the first thing companies consider before going ahead with the application development.",
+          "points": [
+            "dinner after every 3 months",
+            "Salery increment after 6 months",
+            "Fule allowance for outstation employees",
+            "Medical allowance for all employees",
+            "Gym allowance for all employees"
+          ]
+        },
+        "expectations": {
+          "title": "What you can expect from us after applying",
+          "description": "Once you've applied, sit back and relax while we get to work on our side! You can expect to hear back from us within 3 working days. Our recruitment team will call you up on the provided contact number for initial screening. Good luck!"
+        }
+      },
+      {
+        "id": 4,
+        "title": "Senior Customer Support Specialist",
+        "overview": {
+          "title": "Overview",
+          "description": "ibex. Pakistan is looking for a Senior Customer Support Specialist within the Operations department who shall assist our U.S. based client’s customers with their queries/concerns and provide an accurate resolution to customers as per the defined processes via call. We are looking for people who have experience in dealing with international customers but above that, we care more about personality, passion, and work ethic. A sense of humor helps a lot too.  "
+        },
+        "responsibilities": {
+          "title": "Responsibilities",
+          "points": [
+            "Dui, lectus at dui magna vitae vitae egestas sed.",
+            "Vulputate placerat amet pulvinar lorem nisl.",
+            "Consequat feugiat habitant gravida quisque elit bibendum id adipiscing sed.",
+            "Vulputate placerat amet pulvinar lorem nisl.",
+            "Consequat feugiat habitant gravida quisque elit bibendum id adipiscing sed.",
+            "Dui, lectus at dui magna vitae vitae egestas sed."
+          ]
+        },
+        "benefits": {
+          "title": "Benifits",
+          "description": "Developing a functional and well-designed mobile application for your target audience is not inexpensive. That is why the cost tag is usually the first thing companies consider before going ahead with the application development.",
+          "points": [
+            "Dui, lectus at dui magna vitae vitae egestas sed.",
+            "Vulputate placerat amet pulvinar lorem nisl.",
+            "Consequat feugiat habitant gravida quisque elit bibendum id adipiscing sed.",
+            "Vulputate placerat amet pulvinar lorem nisl.",
+            "Consequat feugiat habitant gravida quisque elit bibendum id adipiscing sed.",
+            "Dui, lectus at dui magna vitae vitae egestas sed."
+          ]
+        },
+        "expectations": {
+          "title": "What you can expect from us after applying",
+          "description": "Once you've applied, sit back and relax while we get to work on our side! You can expect to hear back from us within 3 working days. Our recruitment team will call you up on the provided contact number for initial screening. Good luck!"
+        }
+      },
+      {
+        "id": 5,
+        "title": "Senior Customer Support Specialist",
+        "overview": {
+          "title": "Overview",
+          "description": "ibex. Pakistan is looking for a Senior Customer Support Specialist within the Operations department who shall assist our U.S. based client’s customers with their queries/concerns and provide an accurate resolution to customers as per the defined processes via call. We are looking for people who have experience in dealing with international customers but above that, we care more about personality, passion, and work ethic. A sense of humor helps a lot too.  "
+        },
+        "responsibilities": {
+          "title": "Responsibilities",
+          "points": [
+            "Dui, lectus at dui magna vitae vitae egestas sed.",
+            "Vulputate placerat amet pulvinar lorem nisl.",
+            "Consequat feugiat habitant gravida quisque elit bibendum id adipiscing sed.",
+            "Vulputate placerat amet pulvinar lorem nisl.",
+            "Consequat feugiat habitant gravida quisque elit bibendum id adipiscing sed.",
+            "Dui, lectus at dui magna vitae vitae egestas sed."
+          ]
+        },
+        "benefits": {
+          "title": "Benifits",
+          "description": "Developing a functional and well-designed mobile application for your target audience is not inexpensive. That is why the cost tag is usually the first thing companies consider before going ahead with the application development.",
+          "points": [
+            "Dui, lectus at dui magna vitae vitae egestas sed.",
+            "Vulputate placerat amet pulvinar lorem nisl.",
+            "Consequat feugiat habitant gravida quisque elit bibendum id adipiscing sed.",
+            "Vulputate placerat amet pulvinar lorem nisl.",
+            "Consequat feugiat habitant gravida quisque elit bibendum id adipiscing sed.",
+            "Dui, lectus at dui magna vitae vitae egestas sed."
+          ]
+        },
+        "expectations": {
+          "title": "What you can expect from us after applying",
+          "description": "Once you've applied, sit back and relax while we get to work on our side! You can expect to hear back from us within 3 working days. Our recruitment team will call you up on the provided contact number for initial screening. Good luck!"
+        }
+      },
+      {
+        "id": 6,
+        "title": "Senior Customer Support Specialist",
+        "overview": {
+          "title": "Overview",
+          "description": "ibex. Pakistan is looking for a Senior Customer Support Specialist within the Operations department who shall assist our U.S. based client’s customers with their queries/concerns and provide an accurate resolution to customers as per the defined processes via call. We are looking for people who have experience in dealing with international customers but above that, we care more about personality, passion, and work ethic. A sense of humor helps a lot too.  "
+        },
+        "responsibilities": {
+          "title": "Responsibilities",
+          "points": [
+            "Dui, lectus at dui magna vitae vitae egestas sed.",
+            "Vulputate placerat amet pulvinar lorem nisl.",
+            "Consequat feugiat habitant gravida quisque elit bibendum id adipiscing sed.",
+            "Vulputate placerat amet pulvinar lorem nisl.",
+            "Consequat feugiat habitant gravida quisque elit bibendum id adipiscing sed.",
+            "Dui, lectus at dui magna vitae vitae egestas sed."
+          ]
+        },
+        "benefits": {
+          "title": "Benifits",
+          "description": "Developing a functional and well-designed mobile application for your target audience is not inexpensive. That is why the cost tag is usually the first thing companies consider before going ahead with the application development.",
+          "points": [
+            "Dui, lectus at dui magna vitae vitae egestas sed.",
+            "Vulputate placerat amet pulvinar lorem nisl.",
+            "Consequat feugiat habitant gravida quisque elit bibendum id adipiscing sed.",
+            "Vulputate placerat amet pulvinar lorem nisl.",
+            "Consequat feugiat habitant gravida quisque elit bibendum id adipiscing sed.",
+            "Dui, lectus at dui magna vitae vitae egestas sed."
+          ]
+        },
+        "expectations": {
+          "title": "What you can expect from us after applying",
+          "description": "Once you've applied, sit back and relax while we get to work on our side! You can expect to hear back from us within 3 working days. Our recruitment team will call you up on the provided contact number for initial screening. Good luck!"
+        }
+      },
+      {
+        "id": 7,
+        "title": "Senior Customer Support Specialist",
+        "overview": {
+          "title": "Overview",
+          "description": "ibex. Pakistan is looking for a Senior Customer Support Specialist within the Operations department who shall assist our U.S. based client’s customers with their queries/concerns and provide an accurate resolution to customers as per the defined processes via call. We are looking for people who have experience in dealing with international customers but above that, we care more about personality, passion, and work ethic. A sense of humor helps a lot too.  "
+        },
+        "responsibilities": {
+          "title": "Responsibilities",
+          "points": [
+            "Dui, lectus at dui magna vitae vitae egestas sed.",
+            "Vulputate placerat amet pulvinar lorem nisl.",
+            "Consequat feugiat habitant gravida quisque elit bibendum id adipiscing sed.",
+            "Vulputate placerat amet pulvinar lorem nisl.",
+            "Consequat feugiat habitant gravida quisque elit bibendum id adipiscing sed.",
+            "Dui, lectus at dui magna vitae vitae egestas sed."
+          ]
+        },
+        "benefits": {
+          "title": "Benifits",
+          "description": "Developing a functional and well-designed mobile application for your target audience is not inexpensive. That is why the cost tag is usually the first thing companies consider before going ahead with the application development.",
+          "points": [
+            "Dui, lectus at dui magna vitae vitae egestas sed.",
+            "Vulputate placerat amet pulvinar lorem nisl.",
+            "Consequat feugiat habitant gravida quisque elit bibendum id adipiscing sed.",
+            "Vulputate placerat amet pulvinar lorem nisl.",
+            "Consequat feugiat habitant gravida quisque elit bibendum id adipiscing sed.",
+            "Dui, lectus at dui magna vitae vitae egestas sed."
+          ]
+        },
+        "expectations": {
+          "title": "What you can expect from us after applying",
+          "description": "Once you've applied, sit back and relax while we get to work on our side! You can expect to hear back from us within 3 working days. Our recruitment team will call you up on the provided contact number for initial screening. Good luck!"
+        }
+      },
+      {
+        "id": 8,
+        "title": "Senior Customer Support Specialist",
+        "overview": {
+          "title": "Overview",
+          "description": "ibex. Pakistan is looking for a Senior Customer Support Specialist within the Operations department who shall assist our U.S. based client’s customers with their queries/concerns and provide an accurate resolution to customers as per the defined processes via call. We are looking for people who have experience in dealing with international customers but above that, we care more about personality, passion, and work ethic. A sense of humor helps a lot too.  "
+        },
+        "responsibilities": {
+          "title": "Responsibilities",
+          "points": [
+            "Dui, lectus at dui magna vitae vitae egestas sed.",
+            "Vulputate placerat amet pulvinar lorem nisl.",
+            "Consequat feugiat habitant gravida quisque elit bibendum id adipiscing sed.",
+            "Vulputate placerat amet pulvinar lorem nisl.",
+            "Consequat feugiat habitant gravida quisque elit bibendum id adipiscing sed.",
+            "Dui, lectus at dui magna vitae vitae egestas sed."
+          ]
+        },
+        "benefits": {
+          "title": "Benifits",
+          "description": "Developing a functional and well-designed mobile application for your target audience is not inexpensive. That is why the cost tag is usually the first thing companies consider before going ahead with the application development.",
+          "points": [
+            "Dui, lectus at dui magna vitae vitae egestas sed.",
+            "Vulputate placerat amet pulvinar lorem nisl.",
+            "Consequat feugiat habitant gravida quisque elit bibendum id adipiscing sed.",
+            "Vulputate placerat amet pulvinar lorem nisl.",
+            "Consequat feugiat habitant gravida quisque elit bibendum id adipiscing sed.",
+            "Dui, lectus at dui magna vitae vitae egestas sed."
+          ]
+        },
+        "expectations": {
+          "title": "What you can expect from us after applying",
+          "description": "Once you've applied, sit back and relax while we get to work on our side! You can expect to hear back from us within 3 working days. Our recruitment team will call you up on the provided contact number for initial screening. Good luck!"
+        }
+      },
+      {
+        "id": 9,
+        "title": "Senior Customer Support Specialist",
+        "overview": {
+          "title": "Overview",
+          "description": "ibex. Pakistan is looking for a Senior Customer Support Specialist within the Operations department who shall assist our U.S. based client’s customers with their queries/concerns and provide an accurate resolution to customers as per the defined processes via call. We are looking for people who have experience in dealing with international customers but above that, we care more about personality, passion, and work ethic. A sense of humor helps a lot too.  "
+        },
+        "responsibilities": {
+          "title": "Responsibilities",
+          "points": [
+            "Dui, lectus at dui magna vitae vitae egestas sed.",
+            "Vulputate placerat amet pulvinar lorem nisl.",
+            "Consequat feugiat habitant gravida quisque elit bibendum id adipiscing sed.",
+            "Vulputate placerat amet pulvinar lorem nisl.",
+            "Consequat feugiat habitant gravida quisque elit bibendum id adipiscing sed.",
+            "Dui, lectus at dui magna vitae vitae egestas sed."
+          ]
+        },
+        "benefits": {
+          "title": "Benifits",
+          "description": "Developing a functional and well-designed mobile application for your target audience is not inexpensive. That is why the cost tag is usually the first thing companies consider before going ahead with the application development.",
+          "points": [
+            "Dui, lectus at dui magna vitae vitae egestas sed.",
+            "Vulputate placerat amet pulvinar lorem nisl.",
+            "Consequat feugiat habitant gravida quisque elit bibendum id adipiscing sed.",
+            "Vulputate placerat amet pulvinar lorem nisl.",
+            "Consequat feugiat habitant gravida quisque elit bibendum id adipiscing sed.",
+            "Dui, lectus at dui magna vitae vitae egestas sed."
+          ]
+        },
+        "expectations": {
+          "title": "What you can expect from us after applying",
+          "description": "Once you've applied, sit back and relax while we get to work on our side! You can expect to hear back from us within 3 working days. Our recruitment team will call you up on the provided contact number for initial screening. Good luck!"
+        }
+      }
+    ]
+  },
+  "contactUs": {
+    "title": "Need a Digital Partner?",
+    "heading": {
+      "black": "Let's Work",
+      "blue": "Together"
+    },
+    "servicesTitle": "Services you are looking for"
+  },
+  "footer": {
+    "heading": "QUHDOCK + You",
+    "description": "At QUHDOCK, we develop cutting-edge digital solutions tailored to solve complex business challenges. Partner with us to turn your vision into scalable, innovative products.",
+    "button": "Get in Touch",
+    "copyRights": "© 2024 QUHDOCK All Rights Reserved."
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "jobs": [
+    {
+      "id": 1,
+      "title": "NodeJs Developer",
+      "description": "We are looking for a senior NodeJs Developer who must have strong concept of Programming..",
+      "category": "Development",
+      "timeOfPosting": "2 days ago"
+    },
+    {
+      "id": 2,
+      "title": "MERN Stack Developer",
+      "description": "We are looking for a MERN Stack Developer who must have strong concept of Programming..",
+      "category": "Development",
+      "timeOfPosting": "3 days ago"
+    },
+    {
+      "id": 3,
+      "title": "AI Developer",
+      "description": "We are looking for a AI and ML Developer who must have strong concept of Programming..",
+      "category": "Development",
+      "timeOfPosting": "2 days ago"
+    },
+    {
+      "id": 4,
+      "title": "Senior Business Development",
+      "description": "We are looking for a Developer (MVC-Asp.net) who must have strong concept of Programming..",
+      "category": "Development",
+      "timeOfPosting": "2 days ago"
+    },
+    {
+      "id": 5,
+      "title": "Senior Custom Software Developer",
+      "description": "We are looking for a Developer (MVC-Asp.net) who must have strong concept of Programming..",
+      "category": "Development",
+      "timeOfPosting": "2 days ago"
+    },
+    {
+      "id": 6,
+      "title": "UI/UX Designer Intern",
+      "description": "We are looking for a Developer (MVC-Asp.net) who must have strong concept of Programming..",
+      "category": "Development",
+      "timeOfPosting": "2 days ago"
+    },
+    {
+      "id": 7,
+      "title": "UI/UX Designer Intern",
+      "description": "We are looking for a Developer (MVC-Asp.net) who must have strong concept of Programming..",
+      "category": "Development",
+      "timeOfPosting": "2 days ago"
+    },
+    {
+      "id": 8,
+      "title": "Senior Custom Software Developer",
+      "description": "We are looking for a Developer (MVC-Asp.net) who must have strong concept of Programming..",
+      "category": "Development",
+      "timeOfPosting": "2 days ago"
+    },
+    {
+      "id": 9,
+      "title": "Senior Custom Software Developer",
+      "description": "We are looking for a Developer (MVC-Asp.net) who must have strong concept of Programming..",
+      "category": "Development",
+      "timeOfPosting": "2 days ago"
+    }
+  ]
+}

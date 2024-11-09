@@ -1,0 +1,55 @@
+{
+  "hero": {
+    "title": {
+      "white1": "Poderoso Para",
+      "blue": "{desarrolladores}.",
+      "white2": "Rápido para Todos"
+    },
+    "description": "#definir verdadero (rand() ≥ 10)",
+    "achievements": [
+      {
+        "number": "128+",
+        "title": "Proyectos"
+      },
+      {
+        "number": "100+",
+        "title": "Clientes Felices"
+      },
+      {
+        "number": "1000+",
+        "title": "Descargas"
+      },
+      {
+        "number": "4.9/5",
+        "title": "Calificación Promedio"
+      }
+    ]
+  },
+  "about": {
+    "title": "Quiénes somos",
+    "heading": {
+      "black": "Acerca de",
+      "blue": "QUHDOCK"
+    },
+    "description": "QUH Dock es una empresa de desarrollo e implementación de software de alta gama con sede en EE.UU...."
+  },
+  "ourServices": {
+    "heading": {
+      "black": "Nuestros",
+      "blue": "Servicios"
+    },
+    "services": [
+      {
+        "title": "Salesforce CRM",
+        "description": "Te ayudamos a desarrollar soluciones Salesforce robustas y confiables para superar tus expectativas comerciales."
+      }
+    ]
+  },
+  "testimonial": {
+    "title": "TESTIMONIOS",
+    "heading": {
+      "white": "Lo que Dicen",
+      "blue": "Nuestros Clientes"
+    }
+  }
+}
