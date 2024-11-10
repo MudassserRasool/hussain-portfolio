@@ -8,10 +8,7 @@
       "item": "Services",
       "link": "/services"
     },
-    {
-      "item": "Portfolio",
-      "link": "/portfolio"
-    },
+
     {
       "item": "About",
       "link": "/about"
@@ -45,6 +42,10 @@
         {
           "number": "4.9/5",
           "title": "Average Rating"
+        },
+        {
+          "number": "60+",
+          "title": "Employees"
         }
       ]
     },
@@ -52,9 +53,9 @@
       "title": "Who we are",
       "heading": {
         "black": "About",
-        "blue": "ZT"
+        "blue": "Zair Tech"
       },
-      "description": "ZT is a high-end software development and implementation company based in the USA. We specialize in creating cutting-edge software solutions that enhance efficiency, drive growth, and elevate user experiences. Our team combines technical expertise with industry insights to provide comprehensive services, including software development, system integration, and ongoing support. Whether you're a startup looking to launch your first product or an established enterprise seeking to optimize your operations, ZT is here to help you succeed."
+      "description": "Zair Tech is a high-end software development and implementation company based in the USA. We specialize in creating cutting-edge software solutions that enhance efficiency, drive growth, and elevate user experiences. Our team combines technical expertise with industry insights to provide comprehensive services, including software development, system integration, and ongoing support. Whether you're a startup looking to launch your first product or an established enterprise seeking to optimize your operations, Zair Tech is here to help you succeed."
     },
     "ourServices": {
       "heading": {
@@ -97,6 +98,36 @@
           "description": "Leverage the power of Salesforce CRM to streamline your business operations and enhance customer relationships. We offer Salesforce customization, integration, and automation services to help you manage your customer data effectively, improve communication, and increase sales productivity. Our solutions are tailored to your specific business needs to ensure optimal performance.",
           "link": "srm",
           "icon": "/icons/services/Cloud.png"
+        },
+        {
+          "title": "HRM",
+          "description": "Our HRM software is designed to streamline and automate HR processes, from recruitment and onboarding to performance management and payroll. We offer a comprehensive HRM solution that helps businesses manage their workforce more efficiently, improve employee engagement, and ensure compliance with labor laws. Whether you're a small business or a large enterprise, our HRM software can help you optimize your HR operations and drive business success.",
+          "link": "hrm",
+          "icon": "/icons/services/HRM.png"
+        },
+        {
+          "title": "Digital Marketing",
+          "description": "Our digital marketing services help businesses reach their target audience, drive traffic, and increase conversions. We offer a range of digital marketing solutions, including SEO, PPC, social media marketing, content marketing, and email marketing. Our team of experts develops customized strategies to help you achieve your marketing goals and grow your business online.",
+          "link": "digital-marketing",
+          "icon": "/icons/services/DigitalMarketing.png"
+        },
+        {
+          "title": "Leads Generation",
+          "description": "Our lead generation services help businesses identify and attract potential customers who are interested in their products or services. We use a combination of digital marketing strategies, data analysis, and lead nurturing techniques to generate high-quality leads that convert into sales. Whether you're a B2B or B2C business, our lead generation services can help you grow your customer base and increase revenue.",
+          "link": "leads-generation",
+          "icon": "/icons/services/LeadsGeneration.png"
+        },
+        {
+          "title": "Artificial Intelligence",
+          "description": "Our AI services help businesses leverage the power of artificial intelligence to automate processes, gain insights, and improve decision-making. We offer AI solutions such as machine learning, natural language processing, computer vision, and predictive analytics to help you unlock the full potential of your data. Whether you're looking to optimize operations, personalize customer experiences, or drive innovation, our AI services can help you achieve your goals.",
+          "link": "artificial-intelligence",
+          "icon": "/icons/services/ArtificalIntelligence.png"
+        },
+        {
+          "title": "HR",
+          "description": "Our HR software is designed to streamline and automate HR processes, from recruitment and onboarding to performance management and payroll. We offer a comprehensive HR solution that helps businesses manage their workforce more efficiently, improve employee engagement, and ensure compliance with labor laws. Whether you're a small business or a large enterprise, our HR software can help you optimize your HR operations and drive business success.",
+          "link": "hr",
+          "icon": "/icons/services/HR.png"
         }
       ]
     },
@@ -106,7 +137,7 @@
         "white": "Our",
         "blue": "Appproach"
       },
-      "description": "We offer cutting-edge website and mobile app development services for enterprises and businesses of all sizes. At ZT, we tailor solutions to meet each client's unique requirements from the initial concept phase to final delivery. Our process is designed to ensure smooth, continuous support and upgrades throughout the project's lifecycle.",
+      "description": "We offer cutting-edge website and mobile app development services for enterprises and businesses of all sizes. At ZairTech, we tailor solutions to meet each client's unique requirements from the initial concept phase to final delivery. Our process is designed to ensure smooth, continuous support and upgrades throughout the project's lifecycle.",
       "experience": {
         "backgroundNumber": 1,
         "field": "Client Collaboration",
@@ -199,14 +230,14 @@
           "image": "/images/home/persons/person1.png",
           "name": "Andreas Marco Jensen",
           "position": "The hub",
-          "quote": "Every team player at ZT is a very professional developer who care greatly for the delivery. I was very pleased with the result."
+          "quote": "Every team player at Zair Tech is a very professional developer who care greatly for the delivery. I was very pleased with the result."
         },
         {
           "id": 2,
           "image": "/images/home/persons/person2.png",
           "name": "Neil Joseph",
           "position": "Promise tech",
-          "quote": "Really pleasant experience working with ZT, was able to bounce idea off if him as well as work efficiently using latest technology."
+          "quote": "Really pleasant experience working with Zair Tech, was able to bounce idea off if him as well as work efficiently using latest technology."
         },
         {
           "id": 3,
@@ -234,14 +265,14 @@
           "image": "/images/home/persons/person4.png",
           "name": "Zahid Sharif",
           "position": "Inspections",
-          "quote": "Excellent ZT. Save our project and motivated the other whole team. Excellent attention to detail highly recommended them."
+          "quote": "Excellent Zair Tech. Save our project and motivated the other whole team. Excellent attention to detail highly recommended them."
         },
         {
           "id": 7,
           "image": "/images/home/persons/person4.png",
           "name": "Vikas Ramaiah",
           "position": "Greenery Guard",
-          "quote": "Passionate team and fast thinker. ZT always finde solution to unique problem and build excellent logics of problems."
+          "quote": "Passionate team and fast thinker. Zair Tech always finde solution to unique problem and build excellent logics of problems."
         },
         {
           "id": 8,
@@ -262,7 +293,7 @@
     "newAtCompany": {
       "heading": {
         "black": "New at",
-        "blue": "ZT"
+        "blue": "Zair Tech"
       },
       "mainImage": {
         "date": "21 Aug 2021",
@@ -441,12 +472,12 @@
       {
         "image": "/images/home/persons/person1.png",
         "name": "Andreas Marco Jensen",
-        "text": "Every team player at ZT is a very professional developer who care greatly for the delivery. I was very pleased with the result."
+        "text": "Every team player at Zair Tech is a very professional developer who care greatly for the delivery. I was very pleased with the result."
       },
       {
         "image": "/images/home/persons/person2.png",
         "name": "Neil Joseph",
-        "text": "Really pleasant experience working with ZT, was able to bounce idea off if him as well as work efficiently using latest technology."
+        "text": "Really pleasant experience working with Zair Tech, was able to bounce idea off if him as well as work efficiently using latest technology."
       },
       {
         "image": "/images/home/persons/person3.png",
@@ -467,7 +498,7 @@
     "newAtCompany": {
       "heading": {
         "black": "New at",
-        "blue": "ZT"
+        "blue": "Zair Tech"
       },
       "mainImage": {
         "date": "21 Aug 2021",
@@ -783,7 +814,7 @@
     "newAtCompany": {
       "heading": {
         "black": "New at",
-        "blue": "ZT"
+        "blue": "Zair Tech"
       },
       "mainImage": {
         "date": "21 Aug 2021",
@@ -842,7 +873,7 @@
     "hero": {
       "heading": {
         "black": "Why Choose",
-        "blue": "ZT"
+        "blue": "Zair Tech"
       },
       "description": " By combining cutting-edge technologies with a deep understanding of our clients’ needs, we ensure success at every stage."
     },
@@ -1125,7 +1156,7 @@
         "hero": {
           "title": {
             "white1": "Hey, I’m",
-            "blue": "ZT",
+            "blue": "Zair Tech",
             "white2": "Fullstack Developer"
           },
           "description": "Fullstack Developer { REACT / MERN STACK }",
@@ -1243,7 +1274,7 @@
         "hero": {
           "title": {
             "white1": "Hey, I’m",
-            "blue": "ZT",
+            "blue": "Zair Tech",
             "white2": "Fullstack Developer"
           },
           "description": "Fullstack Developer { REACT / MERN STACK }",
@@ -1361,7 +1392,7 @@
         "hero": {
           "title": {
             "white1": "Hey, I’m",
-            "blue": "ZT",
+            "blue": "Zair Tech",
             "white2": "Fullstack Developer"
           },
           "description": "Fullstack Developer { REACT / MERN STACK }",
@@ -1479,7 +1510,7 @@
         "hero": {
           "title": {
             "white1": "Hey, I’m",
-            "blue": "ZT",
+            "blue": "Zair Tech",
             "white2": "Fullstack Developer"
           },
           "description": "Fullstack Developer { REACT / MERN STACK }",
@@ -1597,7 +1628,7 @@
         "hero": {
           "title": {
             "white1": "Hey, I’m",
-            "blue": "ZT",
+            "blue": "Zair Tech",
             "white2": "Fullstack Developer"
           },
           "description": "Fullstack Developer { REACT / MERN STACK }",
@@ -1715,7 +1746,7 @@
         "hero": {
           "title": {
             "white1": "Hey, I’m",
-            "blue": "ZT",
+            "blue": "Zair Tech",
             "white2": "Fullstack Developer"
           },
           "description": "Fullstack Developer { REACT / MERN STACK }",
@@ -2130,16 +2161,8 @@
       "description": "Our employees are our most important assets and our key value proposition is employee development and career growth. Our first priority is hiring from within and growing our employees through coaching, mentoring, and training, both internal and external. We also have a range of exciting initiatives including employee engagement, appreciation, and fun activities all year round.",
       "benefitsList": [
         {
-          "icon": "/icons/benifits/Loan.svg",
-          "title": "Interest-Free Loans"
-        },
-        {
           "icon": "/icons/benifits/career.svg",
           "title": "Professional Career Development"
-        },
-        {
-          "icon": "/icons/benifits/medical.svg",
-          "title": "Medical Allowance"
         },
 
         {
@@ -2162,14 +2185,7 @@
           "icon": "/icons/benifits/leavs.svg",
           "title": "Annual Leaves"
         },
-        {
-          "icon": "/icons/benifits/lunch.svg",
-          "title": "Quartaly Team Lunches"
-        },
-        {
-          "icon": "/icons/benifits/birthday.svg",
-          "title": "Birthday / Festival Celebration"
-        },
+
         {
           "icon": "/icons/benifits/anualIncrement.svg",
           "title": "Annual Increments"
@@ -2512,9 +2528,9 @@
     "servicesTitle": "Services you are looking for"
   },
   "footer": {
-    "heading": "ZT + You",
-    "description": "At ZT, we develop cutting-edge digital solutions tailored to solve complex business challenges. Partner with us to turn your vision into scalable, innovative products.",
+    "heading": "Zair Tech + You",
+    "description": "At Zair Tech, we develop cutting-edge digital solutions tailored to solve complex business challenges. Partner with us to turn your vision into scalable, innovative products.",
     "button": "Get in Touch",
-    "copyRights": "© 2024 ZT All Rights Reserved."
+    "copyRights": "© 2024 Zair Tech All Rights Reserved."
   }
 }

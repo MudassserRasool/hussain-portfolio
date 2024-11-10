@@ -164,14 +164,6 @@ const Contact = () => {
                     placeholder="Enter your phone number"
                     isCompulsory={true}
                   />
-                  <InputField
-                    label="Company"
-                    name="from_company"
-                    value={formData.company}
-                    onChange={(value) => handleInputChange('company', value)}
-                    placeholder="Enter your company"
-                    isCompulsory={true}
-                  />
                 </div>
                 <input type="hidden" name="service" value={serviceState} />
 

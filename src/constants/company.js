@@ -1,9 +1,9 @@
 const company = {
   latitude: 31.49005,
   longitude: 74.396473,
-  companyEmail: 'info@ZT.com',
-  umairEmail: 'umairqadeer.work@gmail.com',
-  phoneNumber: 923124026251,
+  companyEmail: 'Contactus@zairt.com',
+  umairEmail: 'Contactus@zairt.com',
+  phoneNumber: 971559900527,
 };
 
 export default company;

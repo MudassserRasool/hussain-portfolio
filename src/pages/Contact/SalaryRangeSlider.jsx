@@ -45,11 +45,11 @@ const SalaryRangeSlider = ({ values, setValues }) => {
         )}
       />
       <div className="flex justify-between mt-3 text-sm text-gray-600">
+        <span>$500</span>
         <span>$1K</span>
-        <span>$25K</span>
-        <span>$50K</span>
-        <span>$75K</span>
-        <span>$100K</span>
+        <span>$1.5K</span>
+        <span>$2K</span>
+        <span>$2.5K</span>
       </div>
       <div className="mt-2">
         {values[0] === MIN_SALARY && values[1] === MAX_SALARY ? (

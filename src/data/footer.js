@@ -8,18 +8,18 @@ const data = {
   icons: [
     {
       icon: <FaLinkedin />,
-      link: 'https://www.linkedin.com/company/ZT/',
+      link: 'https://www.linkedin.com/company/zairtech/',
     },
     {
       icon: <FaFacebookF />,
-      link: 'https://www.facebook.com/ZT',
+      link: 'https://www.facebook.com/share/1EnfGakofw/?mibextid=LQQJ4d',
     },
     {
       icon: <FaInstagram />,
-      link: 'https://www.instagram.com/ZT/',
+      link: 'https://www.instagram.com/zairtech_global_it_solutions/profilecard/?igsh=bTFhZTVzeXV5eXZr',
     },
   ],
-  locations: ['Wyoming, United States ', 'Lahore, Pakistan'],
+  locations: ['Mountain House CA 95391 ', 'Business Bay Dubai 500001'],
   images: [
     { image: Clutch, name: 'Clutch icon' },
     { image: GoodFirm, name: 'Good Firm icon' },
