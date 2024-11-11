@@ -344,6 +344,10 @@
         {
           "question": "What technologies do you use for software development?",
           "answer": "We use the latest and most reliable technologies, including Node.js, React, Angular, Python, AWS, and more, ensuring cutting-edge solutions for all your needs."
+        },
+        {
+          "question": "Why Remote?",
+          "answer": " Because we believe that when people have the flexibility to work in a way that suits their lifestyle, they are more productive, creative, and engaged. Our clients benefit from seamless IT services, while our team enjoys the freedom and balance that modern technology allows."
         }
       ]
     }
@@ -435,6 +439,90 @@
           },
           "description": "Leverage the power of Salesforce CRM to streamline your business operations and enhance customer relationships. We offer Salesforce customization, integration, and automation services to help you manage your customer data effectively, improve communication, and increase sales productivity. Our solutions are tailored to your specific business needs to ensure optimal performance.",
           "buttonLink": "srm",
+          "images": {
+            "large": "/images/services/CoWorking.png",
+            "small": "/images/services/ManyPeopleTyping.png"
+          }
+        }
+      },
+      {
+        "cardOne": {
+          "icon": "/icons/services/BlueWebsite.svg",
+          "heading": {
+            "black": "HRM",
+            "blue": ""
+          },
+          "description": "Our HRM software is designed to streamline and automate HR processes, from recruitment and onboarding to performance management and payroll. We offer a comprehensive HRM solution that helps businesses manage their workforce more efficiently, improve employee engagement, and ensure compliance with labor laws. Whether you're a small business or a large enterprise, our HRM software can help you optimize your HR operations and drive business success.",
+          "buttonLink": "hrm",
+          "images": {
+            "large": "/images/services/LaptopTyping.png",
+            "small": "/images/services/WatchingVR.png"
+          }
+        },
+        "cardTwo": {
+          "icon": "/icons/services/MobileDevelopment.png",
+          "heading": {
+            "black": "Digital",
+            "blue": "Marketing"
+          },
+          "description": "Our digital marketing services help businesses reach their target audience, drive traffic, and increase conversions. We offer a range of digital marketing solutions, including SEO, PPC, social media marketing, content marketing, and email marketing, using platforms like Meta , Google and other platforms. Our team of experts develops customized strategies to help you achieve your marketing goals and grow your business online.",
+          "buttonLink": "digital-marketing",
+          "images": {
+            "large": "/images/services/CoWorking.png",
+            "small": "/images/services/ManyPeopleTyping.png"
+          }
+        }
+      },
+      {
+        "cardOne": {
+          "icon": "/icons/services/BlueWebsite.svg",
+          "heading": {
+            "black": "Leads",
+            "blue": "Generation"
+          },
+          "description": "Our lead generation services help businesses identify and attract potential customers who are interested in their products or services. We use a combination of digital marketing strategies, data analysis, and lead nurturing techniques to generate high-quality leads that convert into sales. Whether you're a B2B or B2C business, our lead generation services can help you grow your customer base and increase revenue.",
+          "buttonLink": "leads-generation",
+          "images": {
+            "large": "/images/services/LaptopTyping.png",
+            "small": "/images/services/WatchingVR.png"
+          }
+        },
+        "cardTwo": {
+          "icon": "/icons/services/MobileDevelopment.png",
+          "heading": {
+            "black": "Artificial",
+            "blue": "Intelligence"
+          },
+          "description": "Our AI services help businesses leverage the power of artificial intelligence to automate processes, gain insights, and improve decision-making. We offer AI solutions such as machine learning, natural language processing, computer vision, and predictive analytics to help you unlock the full potential of your data. Whether you're looking to optimize operations, personalize customer experiences, or drive innovation, our AI services can help you achieve your goals.",
+          "buttonLink": "artificial-intelligence",
+          "images": {
+            "large": "/images/services/CoWorking.png",
+            "small": "/images/services/ManyPeopleTyping.png"
+          }
+        }
+      },
+      {
+        "cardOne": {
+          "icon": "/icons/services/BlueWebsite.svg",
+          "heading": {
+            "black": "HR",
+            "blue": ""
+          },
+          "description": "Our HR software is designed to streamline and automate HR processes, from recruitment and onboarding to performance management and payroll. We offer a comprehensive HR solution that helps businesses manage their workforce more efficiently, improve employee engagement, and ensure compliance with labor laws. Whether you're a small business or a large enterprise, our HR software can help you optimize your HR operations and drive business success.",
+          "buttonLink": "hr",
+          "images": {
+            "large": "/images/services/LaptopTyping.png",
+            "small": "/images/services/WatchingVR.png"
+          }
+        },
+        "cardTwo": {
+          "icon": "/icons/services/MobileDevelopment.png",
+          "heading": {
+            "black": "HR",
+            "blue": ""
+          },
+          "description": "Our HR software is designed to streamline and automate HR processes, from recruitment and onboarding to performance management and payroll. We offer a comprehensive HR solution that helps businesses manage their workforce more efficiently, improve employee engagement, and ensure compliance with labor laws. Whether you're a small business or a large enterprise, our HR software can help you optimize your HR operations and drive business success.",
+          "buttonLink": "hr",
           "images": {
             "large": "/images/services/CoWorking.png",
             "small": "/images/services/ManyPeopleTyping.png"
@@ -885,7 +973,7 @@
           "black": "Our",
           "blue": "Mission"
         },
-        "description": "To deliver innovative, custom-tailored web solutions that empower businesses to excel in the digital age. By leveraging cutting-edge technologies, we help our clients enhance their online presence, streamline operations, and achieve sustainable growth. Our mission is to foster long-term partnerships with organizations worldwide by consistently delivering top-quality, scalable, and reliable digital products."
+        "description": "To deliver innovative, custom-tailored web solutions that empower businesses to excel in the digital age. By leveraging cutting-edge technologies, we help our clients enhance their online presence, streamline operations, and achieve sustainable growth. Our mission is to foster long-term partnerships with organizations worldwide by consistently delivering top-quality, scalable, and reliable digital products. We believe that when people have the flexibility to work in a way that suits their lifestyle, they are more productive, creative, and engaged. Our clients benefit from seamless IT services, while our team enjoys the freedom and balance that modern technology allows."
       },
       {
         "icon": "/icons/about/EyeHit.svg",
@@ -894,7 +982,7 @@
           "black": "Our",
           "blue": "Vision"
         },
-        "description": "To become a global leader in web development by creating groundbreaking digital experiences that shape the future of businesses. We aim to drive innovation and set new industry standards, empowering organizations around the world to thrive in a competitive, ever-evolving digital landscape."
+        "description": "At ZairTech, we believe that modern technology should empower people, not confine them to old work models. That’s why we are a 100% remote company, offering IT solutions globally, while giving our employees the freedom to work from anywhere, at any time, with flexible hours. 🌐By eliminating the need for traditional offices, we create a work environment where our team can perform at their best, without the hassle of commuting or rigid office routines. We empower our employees to think and work like entrepreneurs, driving innovation and excellence in every project. 🚀"
       }
     ],
     "team": {
@@ -960,12 +1048,12 @@
           "description": "Empowering e-commerce websites with seamless digital solutions."
         },
         {
-          "icon": "/icons/about/EcommerceDevelopment.png",
+          "icon": "/icons/about/CloudServices.png",
           "title": "Software Development",
           "description": "Driving innovation in software development with tailored solutions."
         },
         {
-          "icon": "/icons/about/EcommerceDevelopment.png",
+          "icon": "/icons/about/DigitalMarketing.png",
           "title": "B2B /B2C Services",
           "description": "Enabling B2B and B2C services with scalable digital platforms."
         },

@@ -1,10 +1,8 @@
 import React from 'react';
-import { useNavigate } from 'react-router-dom';
 // import { routes } from '../../../../routes/routes';
 // import Button from '../../../common/buttons/Button/Button';
 import BlueBlackHeading from '../../../common/headings/BlueBlackHeading/BlueBlackHeading';
 const LeftAlienedImageCard = ({ data }) => {
-  const navigate = useNavigate();
   return (
     <div className="mt-20">
       <div className="flex flex-col md:flex-row ">
@@ -17,7 +15,7 @@ const LeftAlienedImageCard = ({ data }) => {
             />
           </div>
         </div>
-        <div className="md:mt-12  ml-8 md:ml-0 md:mb-0 mb-14 " >
+        <div className="md:mt-12  ml-8 md:ml-0 md:mb-0 mb-14 ">
           <div>
             <img className="w-8" src={data.icon} alt="person" />
           </div>
