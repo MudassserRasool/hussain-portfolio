@@ -55,7 +55,7 @@
         "black": "About",
         "blue": "Zair Tech"
       },
-      "description": "Zair Tech is a high-end software development and implementation company based in the USA. We specialize in creating cutting-edge software solutions that enhance efficiency, drive growth, and elevate user experiences. Our team combines technical expertise with industry insights to provide comprehensive services, including software development, system integration, and ongoing support. Whether you're a startup looking to launch your first product or an established enterprise seeking to optimize your operations, Zair Tech is here to help you succeed."
+      "description": "Welcome to ZairTech! Founded in the heart of the UAE, ZairTech has rapidly transformed from a small team of three into a dynamic international company dedicated to delivering exceptional Information Technology services worldwide. Our mission is simple: to turn our clients' visions into reality—often exceeding their expectations. At ZairTech, we transform projects into innovative solutions that enhance our clients' operations and maximize ROI. Our expert team delivers results-driven services that save time and reduce costs. Committed to empowering clients through technology, we build lasting partnerships based on trust and collaboration. With ZairTech, you gain a partner who listens, understands, and delivers. Let’s redefine possibilities together."
     },
     "ourServices": {
       "heading": {
@@ -465,7 +465,7 @@
             "black": "Digital",
             "blue": "Marketing"
           },
-          "description": "Our digital marketing services help businesses reach their target audience, drive traffic, and increase conversions. We offer a range of digital marketing solutions, including SEO, PPC, social media marketing, content marketing, and email marketing, using platforms like Meta , Google and other platforms. Our team of experts develops customized strategies to help you achieve your marketing goals and grow your business online.",
+          "description": "Our digital marketing services help businesses reach their target audience, drive traffic, and increase conversions. We offer a range of digital marketing solutions, including SEO, PPC, social media marketing, content marketing, and email marketing, using platforms like Meta , Google and other platforms . Our team of experts develops customized strategies to help you achieve your marketing goals and grow your business online.",
           "buttonLink": "digital-marketing",
           "images": {
             "large": "/images/services/CoWorking.png",
