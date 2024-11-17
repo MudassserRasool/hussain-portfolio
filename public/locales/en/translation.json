@@ -155,6 +155,18 @@
         "field": "PROCESS",
         "title": "Lean & Transparent Workflow",
         "description": "Our agile, transparent development process keeps you involved at every step, from brainstorming to deployment. This ensures that the final product not only meets but exceeds your expectations."
+      },
+      "quality": {
+        "backgroundNumber": 4,
+        "field": "Quality",
+        "title": "Quality Assurance & Testing",
+        "description": "We follow rigorous quality assurance and testing processes to ensure that your solution is bug-free, secure, and performs flawlessly. Our commitment to quality ensures that your project is delivered on time and within budget."
+      },
+      "delivery": {
+        "backgroundNumber": 5,
+        "field": "Delivery",
+        "title": "On-Time Delivery & Deployment",
+        "description": "We understand the importance of timely delivery and deployment. Our team works diligently to ensure that your project is completed on time and deployed seamlessly, so you can start reaping the benefits right away."
       }
     },
     "whyUs": {
@@ -371,8 +383,7 @@
           "description": "We offer custom web development services using cutting-edge technologies such as React, Angular, PHP, and Node.js. Our expert team delivers scalable, secure, and high-performing websites tailored to your business needs. Whether you require a dynamic e-commerce platform, a robust enterprise web app, or a simple landing page, we ensure an exceptional user experience and seamless performance across all devices.",
           "buttonLink": "web-development",
           "images": {
-            "large": "/images/services/LaptopTyping.png",
-            "small": "/images/services/WatchingVR.png"
+            "large": "/images/services/LaptopTyping.png"
           }
         },
         "cardTwo": {
@@ -384,8 +395,7 @@
           "description": "We build custom mobile applications for iOS and Android platforms. From concept to launch, our team ensures your mobile app is designed with a user-first approach and delivers a smooth, engaging experience. Leveraging React Native and other cross-platform tools, we ensure rapid development, low maintenance, and maximum device compatibility.",
           "buttonLink": "mobile-development",
           "images": {
-            "large": "/images/services/Coworking.svg",
-            "small": "/images/services/ManyPeopleTyping.png"
+            "large": "/images/services/Coworking.svg"
           }
         }
       },
@@ -399,8 +409,8 @@
           "description": "Our game development services bring your creative ideas to life with immersive gameplay, stunning graphics, and multi-platform deployment. We offer end-to-end solutions for game design, development, and testing, ensuring smooth user experiences across mobile, web, and desktop platforms. Our focus is on creating engaging and high-performance games that captivate your audience.",
           "buttonLink": "game-development",
           "images": {
-            "large": "/images/services/LaptopTyping.png",
-            "small": "/images/services/WatchingVR.png"
+            "large": "/images/services/GameDevelopment.jpg",
+            "small": ""
           }
         },
         "cardTwo": {
@@ -412,8 +422,7 @@
           "description": "Boost your online business with our feature-rich and scalable e-commerce platforms. We provide custom-built solutions with seamless payment integrations, powerful inventory management, and an intuitive user interface to enhance customer satisfaction and maximize sales. Whether it's Shopify, WooCommerce, or a custom-built solution, we ensure your online store stands out.",
           "buttonLink": "ecommerce-development",
           "images": {
-            "large": "/images/services/CoWorking.png",
-            "small": "/images/services/ManyPeopleTyping.png"
+            "large": "/images/services/ecomerce.jpg"
           }
         }
       },
@@ -427,8 +436,7 @@
           "description": "Our cloud services help businesses achieve greater scalability, flexibility, and performance by migrating their infrastructure to the cloud. We specialize in cloud strategy, migration, and management services with platforms like AWS, Microsoft Azure, and Google Cloud. Whether you need to enhance your storage capacity or streamline your workflow, we offer customized solutions to help your business grow.",
           "buttonLink": "cloud-services",
           "images": {
-            "large": "/images/services/LaptopTyping.png",
-            "small": "/images/services/WatchingVR.png"
+            "large": "/images/services/cloudservices.jpg"
           }
         },
         "cardTwo": {
@@ -440,8 +448,7 @@
           "description": "Leverage the power of Salesforce CRM to streamline your business operations and enhance customer relationships. We offer Salesforce customization, integration, and automation services to help you manage your customer data effectively, improve communication, and increase sales productivity. Our solutions are tailored to your specific business needs to ensure optimal performance.",
           "buttonLink": "srm",
           "images": {
-            "large": "/images/services/CoWorking.png",
-            "small": "/images/services/ManyPeopleTyping.png"
+            "large": "/images/services/srm.jpg"
           }
         }
       },
@@ -455,8 +462,7 @@
           "description": "Our HRM software is designed to streamline and automate HR processes, from recruitment and onboarding to performance management and payroll. We offer a comprehensive HRM solution that helps businesses manage their workforce more efficiently, improve employee engagement, and ensure compliance with labor laws. Whether you're a small business or a large enterprise, our HRM software can help you optimize your HR operations and drive business success.",
           "buttonLink": "hrm",
           "images": {
-            "large": "/images/services/LaptopTyping.png",
-            "small": "/images/services/WatchingVR.png"
+            "large": "/images/services/hrm.jpg"
           }
         },
         "cardTwo": {
@@ -468,8 +474,7 @@
           "description": "Our digital marketing services help businesses reach their target audience, drive traffic, and increase conversions. We offer a range of digital marketing solutions, including SEO, PPC, social media marketing, content marketing, and email marketing, using platforms like Meta , Google and other platforms . Our team of experts develops customized strategies to help you achieve your marketing goals and grow your business online.",
           "buttonLink": "digital-marketing",
           "images": {
-            "large": "/images/services/CoWorking.png",
-            "small": "/images/services/ManyPeopleTyping.png"
+            "large": "/images/services/digital-marketing.jpg"
           }
         }
       },
@@ -483,8 +488,7 @@
           "description": "Our lead generation services help businesses identify and attract potential customers who are interested in their products or services. We use a combination of digital marketing strategies, data analysis, and lead nurturing techniques to generate high-quality leads that convert into sales. Whether you're a B2B or B2C business, our lead generation services can help you grow your customer base and increase revenue.",
           "buttonLink": "leads-generation",
           "images": {
-            "large": "/images/services/LaptopTyping.png",
-            "small": "/images/services/WatchingVR.png"
+            "large": "/images/services/leads.jpg"
           }
         },
         "cardTwo": {
@@ -496,36 +500,7 @@
           "description": "Our AI services help businesses leverage the power of artificial intelligence to automate processes, gain insights, and improve decision-making. We offer AI solutions such as machine learning, natural language processing, computer vision, and predictive analytics to help you unlock the full potential of your data. Whether you're looking to optimize operations, personalize customer experiences, or drive innovation, our AI services can help you achieve your goals.",
           "buttonLink": "artificial-intelligence",
           "images": {
-            "large": "/images/services/CoWorking.png",
-            "small": "/images/services/ManyPeopleTyping.png"
-          }
-        }
-      },
-      {
-        "cardOne": {
-          "icon": "/icons/services/BlueWebsite.svg",
-          "heading": {
-            "black": "HR",
-            "blue": ""
-          },
-          "description": "Our HR software is designed to streamline and automate HR processes, from recruitment and onboarding to performance management and payroll. We offer a comprehensive HR solution that helps businesses manage their workforce more efficiently, improve employee engagement, and ensure compliance with labor laws. Whether you're a small business or a large enterprise, our HR software can help you optimize your HR operations and drive business success.",
-          "buttonLink": "hr",
-          "images": {
-            "large": "/images/services/LaptopTyping.png",
-            "small": "/images/services/WatchingVR.png"
-          }
-        },
-        "cardTwo": {
-          "icon": "/icons/services/MobileDevelopment.png",
-          "heading": {
-            "black": "HR",
-            "blue": ""
-          },
-          "description": "Our HR software is designed to streamline and automate HR processes, from recruitment and onboarding to performance management and payroll. We offer a comprehensive HR solution that helps businesses manage their workforce more efficiently, improve employee engagement, and ensure compliance with labor laws. Whether you're a small business or a large enterprise, our HR software can help you optimize your HR operations and drive business success.",
-          "buttonLink": "hr",
-          "images": {
-            "large": "/images/services/CoWorking.png",
-            "small": "/images/services/ManyPeopleTyping.png"
+            "large": "/images/services/AI.jpg"
           }
         }
       }
@@ -983,6 +958,24 @@
           "blue": "Vision"
         },
         "description": "At ZairTech, we believe that modern technology should empower people, not confine them to old work models. That’s why we are a 100% remote company, offering IT solutions globally, while giving our employees the freedom to work from anywhere, at any time, with flexible hours. 🌐By eliminating the need for traditional offices, we create a work environment where our team can perform at their best, without the hassle of commuting or rigid office routines. We empower our employees to think and work like entrepreneurs, driving innovation and excellence in every project. 🚀"
+      },
+      {
+        "icon": "/icons/about/5892.jpg",
+        "title": "Our Core Values",
+        "heading": {
+          "black": "Our",
+          "blue": "Values"
+        },
+        "description": "At ZairTech, we are guided by a set of core values that define who we are and how we work. These values shape our culture, drive our decisions, and inspire us to deliver exceptional results for our clients. Our core values are: 🌟 Innovation: We are committed to continuous improvement and innovation, always seeking new ways to enhance our services and deliver value to our clients. 🌟"
+      },
+      {
+        "icon": "/icons/approches/Union.svg",
+        "title": "Our Approach",
+        "heading": {
+          "black": "Our",
+          "blue": "Approach"
+        },
+        "description": "At ZairTech, we take a client-centric approach to software development, focusing on understanding our clients’ unique needs and delivering tailored solutions that drive business growth. Our team of experts works closely with clients to develop a deep understanding of their goals, challenges, and vision, ensuring that we deliver the right solutions at the right time. By combining cutting-edge technologies with a deep understanding of our clients’ needs, we ensure success at every stage."
       }
     ],
     "team": {

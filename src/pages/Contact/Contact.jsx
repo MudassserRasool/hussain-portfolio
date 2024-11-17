@@ -45,7 +45,7 @@ const Contact = () => {
       formData.name === '' ||
       formData.email === '' ||
       formData.phone === '' ||
-      formData.company === '' ||
+      // formData.company === '' ||
       formData.message === ''
     ) {
       toast.error('Please fill all the fields');
@@ -163,6 +163,7 @@ const Contact = () => {
                     onChange={(value) => handleInputChange('phone', value)}
                     placeholder="Enter your phone number"
                     isCompulsory={true}
+                    type="number"
                   />
                 </div>
                 <input type="hidden" name="service" value={serviceState} />

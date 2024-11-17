@@ -46,7 +46,7 @@ const AllServices = () => {
       {servicesArray.map((service, index) => (
         <div
           key={index}
-          className="flex flex-col justify-center items-center"
+          className="flex flex-col justify-center items-center gap-10"
           ref={(el) => (serviceRefs.current[index] = el)}
         >
           <RightAlienedImageCard

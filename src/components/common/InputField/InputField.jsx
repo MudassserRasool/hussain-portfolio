@@ -13,6 +13,7 @@ const InputField = ({
   color = '#fffff',
   textColor,
   displaySteric = true,
+  type = 'text',
 }) => {
   const inputClass = removeRoundedFromRight
     ? `block w-full px-3 py-2 border  rounded-l-md shadow-sm focus:outline-none focus:ring-indigo-500 focus:border-indigo-500 sm:text-sm`
@@ -43,7 +44,7 @@ const InputField = ({
         <input
           style={{ width: width, backgroundColor: color, color: textColor }}
           placeholder={placeholder}
-          type="text"
+          type={type}
           id={name}
           name={name}
           value={value}

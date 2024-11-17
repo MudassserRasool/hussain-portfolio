@@ -1,4 +1,4 @@
-import { APIProvider, Map } from '@vis.gl/react-google-maps';
+import { APIProvider, Map, Marker } from '@vis.gl/react-google-maps';
 import React from 'react';
 import { MAP_API_KEY } from '../../../constants';
 import company from '../../../constants/company';
@@ -13,6 +13,7 @@ const MapComponent = () => {
           gestureHandling={'greedy'}
           disableDefaultUI={true}
         />
+        <Marker position={{ lat: company.latitude, lng: company.longitude }} />
       </APIProvider>
     </div>
   );

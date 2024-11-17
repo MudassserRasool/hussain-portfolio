@@ -103,6 +103,56 @@ const Approaches = ({ pageName }) => {
               </div>
             </div>
           </div>
+
+          <div className="flex  flex-col-reverse md:flex-row mb-10 md:h-24 mt-10 gap-72">
+            <div>
+              <div className="ml-6 overflow-hidden">
+                <h1 className="text-xs pt-5 text-white">
+                  {data('quality.field')}
+                </h1>
+                <div className="-translate-y-10 ">
+                  <span className="opacity-20 text-gray-400 text-7xl font-bold">
+                    0{data('quality.backgroundNumber')}
+                  </span>
+                  <h1 className="text-md font-semibold md:mb-1">
+                    {data('quality.title')}
+                  </h1>
+                  <p className="md:text-md text-sm w-60 md:w-[350px]">
+                    {data('quality.description')}
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div>
+              <img
+                className="w-44 md:w-36  mb-4"
+                src="/icons/approches/Union2.svg"
+                alt="circle"
+              />
+            </div>
+          </div>
+
+          <div className="flex flex-col md:flex-row  md:h-40 mt-20 gap-72">
+            <img
+              className="w-44 md:w-40  md:ml-20 mt-10"
+              src="/icons/approches/Clock.svg"
+              alt="circle"
+            />
+            <div className=" pt-10 overflow-hidden">
+              <h1 className="text-xs  md:pl-5">{data('delivery.field')}</h1>
+              <div className="-translate-y-12 translate-x-4">
+                <span className="opacity-20 text-gray-400 text-7xl font-bold">
+                  0{data('delivery.backgroundNumber')}
+                </span>
+                <h1 className="text-md font-semibold mb-1">
+                  {data('delivery.title')}
+                </h1>
+                <p className="md:text-md text-xs  w-60 md:w-[400px]">
+                  {data('delivery.description')}
+                </p>
+              </div>
+            </div>
+          </div>
         </div>
       </div>
     </div>

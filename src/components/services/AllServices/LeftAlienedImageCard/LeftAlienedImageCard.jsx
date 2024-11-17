@@ -5,7 +5,7 @@ import BlueBlackHeading from '../../../common/headings/BlueBlackHeading/BlueBlac
 const LeftAlienedImageCard = ({ data }) => {
   return (
     <div className="mt-20">
-      <div className="flex flex-col md:flex-row ">
+      <div className="flex flex-col md:flex-row items-center">
         <div>
           <div>
             <img
@@ -15,7 +15,7 @@ const LeftAlienedImageCard = ({ data }) => {
             />
           </div>
         </div>
-        <div className="md:mt-12  ml-8 md:ml-0 md:mb-0 mb-14 ">
+        <div className="  ml-8 md:ml-0 md:mb-0  ">
           <div>
             <img className="w-8" src={data.icon} alt="person" />
           </div>

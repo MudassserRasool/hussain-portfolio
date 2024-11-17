@@ -14,6 +14,8 @@ const GameDevelopment = '/icons/services/GameDevelopment.png';
 const CloudServices = '/icons/services/CloudServices.png';
 const LogoFrame = '/icons/LogoFrame.jpeg';
 const Clutch = '/icons/footer/Clutch.png';
+const FreedomPros = '/icons/footer/freedompros.png';
+const InaraTrade = '/icons/footer/inaratrad.png';
 const GoodFirm = '/icons/footer/GoodFirm.png';
 const carouselVideo1 = '/videos/1.mp4';
 const carouselVideo2 = '/videos/2.mp4';
@@ -46,10 +48,12 @@ export {
   CodingPc,
   EcommerceDevelopment,
   Emaar,
+  FreedomPros,
   GameDevelopment,
   Getbee,
   GoodFirm,
   Hutamaki,
+  InaraTrade,
   Innovation1,
   Innovation2,
   Innovation3,

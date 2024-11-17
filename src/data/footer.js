@@ -1,5 +1,5 @@
 import { FaFacebookF, FaInstagram, FaLinkedin } from 'react-icons/fa';
-import { Clutch, GoodFirm } from '../assets';
+import { Clutch, FreedomPros, GoodFirm, InaraTrade } from '../assets';
 
 const data = {
   heading: 'ZT + You',
@@ -23,6 +23,8 @@ const data = {
   images: [
     { image: Clutch, name: 'Clutch icon' },
     { image: GoodFirm, name: 'Good Firm icon' },
+    { image: FreedomPros, name: 'FreedomPros' },
+    { image: InaraTrade, name: 'Inra Trade' },
   ],
 };
 export default data;

@@ -19,7 +19,7 @@ const Companies = ({ data }) => {
                   alt={companies.name}
                   className={`w-auto ${
                     index === 4 ? 'h-[40px]' : 'h-[50px]'
-                  } object-contain grayscale `}
+                  } object-contain  `}
                 />
               </Link>
             );

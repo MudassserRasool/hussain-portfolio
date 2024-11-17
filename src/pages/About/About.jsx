@@ -14,7 +14,7 @@ const About = () => {
   return (
     <>
       <Hero pagName={'about'} />
-      <Missions pagName={'about'} /> 
+      <Missions pagName={'about'} />
       {/* <Team pageName={'about'} /> */}
       <TargetMarkets pageName={'about'} />
       <OurTechStack pageName={'about'} />
