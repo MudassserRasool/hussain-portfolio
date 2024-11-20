@@ -50,7 +50,6 @@ const JobApplyForm = ({ jobTitle }) => {
       );
       toast.success('Message sent successfully');
     } catch (error) {
-      console.log(error);
       toast.error('Failed to send message');
     }
   };

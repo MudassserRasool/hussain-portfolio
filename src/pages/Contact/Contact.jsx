@@ -85,7 +85,6 @@ const Contact = () => {
     }
   };
   const isMobile = window.innerHeight <= 786;
-  console.log(isMobile);
   return (
     <>
       <div className="container mx-auto flex md:items-center   md:justify-center mt-20">

@@ -14,8 +14,8 @@ const Missions = ({ pagName }) => {
   const missionsArray = Array.isArray(missions) ? missions : [];
   return (
     <div className="grid grid-cols-1 md:grid-cols-2 gap-10 my-20 px-4 max-w-screen-lg mx-auto">
-      {missionsArray.map((mission) => (
-        <MissionCard key={mission.id} mission={mission} />
+      {missionsArray.map((mission, index) => (
+        <MissionCard key={mission.id} mission={mission} index={index} />
       ))}
     </div>
   );

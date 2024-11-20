@@ -25,26 +25,26 @@
   "home": {
     "hero": {
       "title": {
-        "white1": "WE TRANSFORM",
-        "blue": "{BUSINESSES}.",
-        "white2": "WITH TECH SOLUTIONS"
+        "white1": "We transform",
+        "blue": "{BUSINESSES} ",
+        "white2": "with Innovative IT Solutions Globally."
       },
       "description": "Our mission is to enhance the business growth of our customers with creative designs, development and to deliver market-defining high-quality solutions that create value and reliable competitive advantage of customers around the globe.",
       "achievements": [
         {
-          "number": "50+",
+          "number": "50",
           "title": "Projects"
         },
         {
-          "number": "40+",
-          "title": "Happy Clients"
+          "number": "40",
+          "title": "Partnered Companies"
         },
         {
-          "number": "4.9/5",
+          "number": "5",
           "title": "Average Rating"
         },
         {
-          "number": "60+",
+          "number": "60",
           "title": "Employees"
         }
       ]
@@ -100,8 +100,8 @@
           "icon": "/icons/services/Cloud.png"
         },
         {
-          "title": "HRM",
-          "description": "Our HRM software is designed to streamline and automate HR processes, from recruitment and onboarding to performance management and payroll. We offer a comprehensive HRM solution that helps businesses manage their workforce more efficiently, improve employee engagement, and ensure compliance with labor laws. Whether you're a small business or a large enterprise, our HRM software can help you optimize your HR operations and drive business success.",
+          "title": "HR Management",
+          "description": "Our HR Management software is designed to streamline and automate HR processes, from recruitment and onboarding to performance management and payroll. We offer a comprehensive HR Management solution that helps businesses manage their workforce more efficiently, improve employee engagement, and ensure compliance with labor laws. Whether you're a small business or a large enterprise, our HR Management software can help you optimize your HR operations and drive business success.",
           "link": "hrm",
           "icon": "/icons/services/HRM.png"
         },
@@ -456,10 +456,10 @@
         "cardOne": {
           "icon": "/icons/services/BlueWebsite.svg",
           "heading": {
-            "black": "HRM",
+            "black": "HR Management",
             "blue": ""
           },
-          "description": "Our HRM software is designed to streamline and automate HR processes, from recruitment and onboarding to performance management and payroll. We offer a comprehensive HRM solution that helps businesses manage their workforce more efficiently, improve employee engagement, and ensure compliance with labor laws. Whether you're a small business or a large enterprise, our HRM software can help you optimize your HR operations and drive business success.",
+          "description": "Our HR Management software is designed to streamline and automate HR processes, from recruitment and onboarding to performance management and payroll. We offer a comprehensive HRM solution that helps businesses manage their workforce more efficiently, improve employee engagement, and ensure compliance with labor laws. Whether you're a small business or a large enterprise, our HRM software can help you optimize your HR operations and drive business success.",
           "buttonLink": "hrm",
           "images": {
             "large": "/images/services/hrm.jpg"

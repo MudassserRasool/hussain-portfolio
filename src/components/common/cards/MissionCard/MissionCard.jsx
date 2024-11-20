@@ -1,11 +1,15 @@
 import React from 'react';
 import BlueBlackHeading from '../../headings/BlueBlackHeading/BlueBlackHeading';
 
-const MissionCard = ({ mission }) => {
+const MissionCard = ({ mission, index }) => {
   return (
-    <div  className="md:ml-28 ml-16 md:w-[450px]">
+    <div className="md:ml-28 ml-16 md:w-[450px]">
       <div>
-        <img className="w-24 m-2" src={mission.icon} alt="logo" />
+        <img
+          className={`${index === 2 ? 'w-36' : 'w-24'} m-2`}
+          src={mission.icon}
+          alt="logo"
+        />
       </div>
       <div>
         <p className="font-semibold ">{mission.title}</p>

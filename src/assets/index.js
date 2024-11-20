@@ -1,5 +1,5 @@
 const Logo = '/icons/Logo.png';
-const CodingPc = '/images/CodingPc.png';
+const CodingPc = '/images/home/coding.jpg';
 const Arencon = '/icons/companies/Arenco.png';
 const Arabic = '/icons/companies/Arabic.png';
 const Emaar = '/icons/companies/Emaar.png';

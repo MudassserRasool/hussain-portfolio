@@ -17,7 +17,6 @@ const OurServices = ({ pageName }) => {
   };
   const services = data('services', true);
   const servicesArray = Array.isArray(services) ? services : [];
-  console.log(servicesArray);
   return (
     <>
       <div className="bg-white mt-20  max-w-5xl mx-auto p-5 md:p-0">

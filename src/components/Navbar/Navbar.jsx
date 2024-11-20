@@ -56,11 +56,6 @@ const Navbar = () => {
                   </li>
                 );
               })}
-              {/* <Button
-                theme="blue"
-                title="Get Started"
-                onClick={() => console.log('Get Started')}
-              /> */}
             </ul>
           </div>
           <LanguageSwitcher />
