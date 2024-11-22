@@ -33,6 +33,7 @@ const Approaches = ({ pageName }) => {
         <div className=" text-white grid max-w-screen-xl px-4 py-8 mx-auto ">
           <div className="flex flex-col md:flex-row  gap-72 h-42 mt-10">
             <img
+              loading="lazy"
               className="w-44 md:w-40  pt-10"
               src="/icons/approches/Union.svg"
               alt="circle"
@@ -75,6 +76,7 @@ const Approaches = ({ pageName }) => {
             </div>
             <div>
               <img
+                loading="lazy"
                 className="w-44 md:w-36  mb-4"
                 src="/icons/approches/Union2.svg"
                 alt="circle"
@@ -84,6 +86,7 @@ const Approaches = ({ pageName }) => {
 
           <div className="flex flex-col md:flex-row  md:h-64 mt-20 gap-72">
             <img
+              loading="lazy"
               className="w-44 md:w-40  md:ml-20 mt-10"
               src="/icons/approches/Clock.svg"
               alt="circle"
@@ -125,6 +128,7 @@ const Approaches = ({ pageName }) => {
             </div>
             <div>
               <img
+                loading="lazy"
                 className="w-44 md:w-36  mb-4"
                 src="/icons/approches/Union2.svg"
                 alt="circle"
@@ -134,6 +138,7 @@ const Approaches = ({ pageName }) => {
 
           <div className="flex flex-col md:flex-row  md:h-64 mt-20 gap-72">
             <img
+              loading="lazy"
               className="w-44 md:w-40  md:ml-20 mt-10"
               src="/icons/approches/Clock.svg"
               alt="circle"

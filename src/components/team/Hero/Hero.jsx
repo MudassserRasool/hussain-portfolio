@@ -22,7 +22,7 @@ const Hero = ({ data = {} }) => {
             <Button theme={'blue'} title="Hire Me" />
           </div>
           <div className="hidden lg:mt-0 lg:col-span-6 lg:flex">
-            <img src={data?.image} alt="mockup" height={5000} />
+            <img src={data?.image} alt="mockup" height={5000} loading="lazy" />
           </div>
         </div>
       </section>

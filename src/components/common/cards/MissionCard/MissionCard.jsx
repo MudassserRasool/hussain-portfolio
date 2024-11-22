@@ -9,6 +9,7 @@ const MissionCard = ({ mission, index }) => {
           className={`${index === 2 ? 'w-36' : 'w-24'} m-2`}
           src={mission.icon}
           alt="logo"
+          loading="lazy"
         />
       </div>
       <div>

@@ -12,6 +12,7 @@ const LeftAlienedImageCard = ({ data }) => {
               className="md:w-[480px] w-[400px] md:mr-6 mr-[460px] "
               src={data.images.large}
               alt="person"
+              loading="lazy"
             />
           </div>
         </div>

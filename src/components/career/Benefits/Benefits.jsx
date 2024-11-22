@@ -29,7 +29,12 @@ const Benefits = ({ pageName }) => {
         <div className="grid grid-cols-3 gap-x-12 gap-y-6">
           {benefitsArray.map((benefit, index) => (
             <div key={index} className="flex items-center gap-2">
-              <img src={benefit.icon} alt={benefit.icon} width={25} />
+              <img
+                loading="lazy"
+                src={benefit.icon}
+                alt={benefit.icon}
+                width={25}
+              />
               <div className="text-sm">{benefit.title}</div>
             </div>
           ))}

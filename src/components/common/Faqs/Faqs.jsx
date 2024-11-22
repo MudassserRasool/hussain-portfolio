@@ -70,7 +70,7 @@ export default function Fqas({ pageName }) {
           </div>
         </div>
         <div className="hidden md:block">
-          <img src={Messages} alt="" width={350} />
+          <img loading="lazy" src={Messages} alt="" width={350} />
         </div>
       </div>
     </div>

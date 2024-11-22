@@ -10,7 +10,12 @@ const BlogPost = ({ blog }) => {
       <div className="font-bold text-xl">{blog.title}</div>
       <div className="flex flex-row mt-2">
         <div>
-          <img className="w-10" src={blog.author.authorImage} alt="logo" />
+          <img
+            loading="lazy"
+            className="w-10"
+            src={blog.author.authorImage}
+            alt="logo"
+          />
         </div>
         <div className="flex flex-col ml-2">
           <div className="font-semibold w-28">{blog.author.name}</div>
@@ -18,7 +23,7 @@ const BlogPost = ({ blog }) => {
         </div>
       </div>
       <div className="mt-3">
-        <img width={600} src={blog.blogImage} alt="logo" />
+        <img loading="lazy" width={600} src={blog.blogImage} alt="logo" />
       </div>
       <div className="mt-3 w-[600px] text-sm">{blog.shortDescription}</div>
       <div

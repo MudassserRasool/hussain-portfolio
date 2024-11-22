@@ -6,7 +6,7 @@ const MarketsCard = ({ market }) => {
     <div className="w-60 mt-20 ml-20 ">
       <div>
         <center>
-          <img className="w-10" src={icon} alt="logo" />
+          <img loading="lazy" className="w-10" src={icon} alt="logo" />
         </center>
       </div>
       <div className="font-semibold text-xl">

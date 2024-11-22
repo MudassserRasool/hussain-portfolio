@@ -32,6 +32,7 @@ const WhyUs = ({ pagName }) => {
               alt="Presentation"
               className="mb-3"
               style={{ width: '632px' }}
+              loading="lazy"
             />
           </div>
 

@@ -15,6 +15,7 @@ const Hero = ({ pagName }) => {
           <div className="flex flex-row ml-56 h-32">
             <div>
               <img
+                loading="lazy"
                 alt="person"
                 className=" hidden   md:block w-8 mt-2 md:mr-6 mr-2"
                 src="/images/about/person2.png"
@@ -22,6 +23,7 @@ const Hero = ({ pagName }) => {
             </div>
             <div>
               <img
+                loading="lazy"
                 alt="person"
                 className="hidden  md:block w-24 mt-6"
                 src="/images/about/imag3.png"
@@ -29,6 +31,7 @@ const Hero = ({ pagName }) => {
             </div>
             <div>
               <img
+                loading="lazy"
                 alt="person"
                 className=" hidden  md:block w-10"
                 src="/images/about/person3.png"
@@ -36,6 +39,7 @@ const Hero = ({ pagName }) => {
             </div>
             <div>
               <img
+                loading="lazy"
                 alt="person"
                 className="hidden  md:block w-24 mt-8"
                 src="/images/about/image2.png"
@@ -46,6 +50,7 @@ const Hero = ({ pagName }) => {
             <div>
               <div>
                 <img
+                  loading="lazy"
                   alt="person"
                   className=" hidden  md:block w-10 ml-4 mb-6 -translate-y-6"
                   src="/images/about/person1.png"
@@ -53,6 +58,7 @@ const Hero = ({ pagName }) => {
               </div>
               <div>
                 <img
+                  loading="lazy"
                   alt="person"
                   className=" hidden  md:block w-24"
                   src="/images/about/image6.png"
@@ -75,6 +81,7 @@ const Hero = ({ pagName }) => {
             <div>
               <div>
                 <img
+                  loading="lazy"
                   alt="person"
                   className=" hidden md:block w-10 mt-2 ml-16"
                   src="/images/about/person5.png"
@@ -82,6 +89,7 @@ const Hero = ({ pagName }) => {
               </div>
               <div>
                 <img
+                  loading="lazy"
                   alt="person"
                   className=" hidden  md:block w-24 mt-4"
                   src="/images/about/image4.png"
@@ -93,6 +101,7 @@ const Hero = ({ pagName }) => {
             <div className>
               <div>
                 <img
+                  loading="lazy"
                   alt="person"
                   className=" hidden  md:block w-10 -translate-x-28"
                   src="/images/about/person4.png"
@@ -100,6 +109,7 @@ const Hero = ({ pagName }) => {
               </div>
               <div>
                 <img
+                  loading="lazy"
                   alt="person"
                   className=" hidden  md:block w-24 mr-32 -translate-x-20 -translate-y-4"
                   src="/images/about/image7.png"
@@ -108,6 +118,7 @@ const Hero = ({ pagName }) => {
             </div>
             <div>
               <img
+                loading="lazy"
                 alt="person"
                 className="hidden  md:block w-10 ml-32 translate-x-20"
                 src="/images/about/Ellipse 241.png"

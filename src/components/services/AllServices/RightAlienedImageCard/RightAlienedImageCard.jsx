@@ -9,7 +9,7 @@ const RightAlienedImageCard = ({ data }) => {
       <div className="flex flex-row  h-[380px] gap-20">
         <div className="bg-blue-50 md:w-[920px] mt-8 md:mt-0 ml-4 w-[760px] h-[380px] pl-6 pt-6">
           <div>
-            <img className="w-6" src={data.icon} alt="icon" />
+            <img loading="lazy" className="w-6" src={data.icon} alt="icon" />
           </div>
           <BlueBlackHeading
             black={data.heading.black}
@@ -32,6 +32,7 @@ const RightAlienedImageCard = ({ data }) => {
               className="w-[800px] ml-10 "
               src={data.images.large}
               alt="person"
+              loading="lazy"
             />
           </div>
         </div>

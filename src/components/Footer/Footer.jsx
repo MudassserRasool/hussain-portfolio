@@ -27,7 +27,12 @@ const Footer = () => {
             <div className="container mx-auto flex flex-col">
               <div className="mt-10 flex w-full flex-col items-center">
                 <div className="mb-10 shrink-0">
-                  <img className="size-14" src={LogoFrame} alt="footer logo" />
+                  <img
+                    loading="lazy"
+                    className="size-14"
+                    src={LogoFrame}
+                    alt="footer logo"
+                  />
                 </div>
                 <div className="mb-6 flex flex-col items-center gap-4">
                   <div className="flex items-center gap-8">
@@ -71,6 +76,7 @@ const Footer = () => {
                         src={image.image}
                         alt={image.name}
                         key={index}
+                        loading="lazy"
                       />
                     ))}
                   </div>

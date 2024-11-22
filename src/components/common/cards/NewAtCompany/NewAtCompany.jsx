@@ -30,6 +30,7 @@ const NewAtCompany = ({ pagName }) => {
               src={data('mainImage.image')}
               className=" hidden  md:block"
               alt="main"
+              loading="lazy"
             />
             <p className="absolute w-72  transform translate-x-6 -translate-y-20 text-white  ">
               {data('mainImage.date')} <br />
@@ -44,6 +45,7 @@ const NewAtCompany = ({ pagName }) => {
                     src={image.image}
                     className="w-60 md:w-32"
                     alt={image.image}
+                    loading="lazy"
                   />
                 </div>
                 <div className="ml-1 md:ml-7 mt-2">

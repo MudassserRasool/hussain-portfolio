@@ -24,7 +24,7 @@ const Navbar = () => {
       <nav className="border-gray-200  bg-[#000C29]  sticky top-0  z-50">
         <div className="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4">
           <Link to={routes.home}>
-            <img src={Logo} className="h-10" alt=" Logo" />
+            <img src={Logo} className="h-10" alt=" Logo" loading="lazy" />
           </Link>
           <button
             data-collapse-toggle="navbar-solid-bg"

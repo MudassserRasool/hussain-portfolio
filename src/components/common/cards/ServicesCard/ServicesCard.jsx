@@ -19,7 +19,7 @@ const ServicesCard = ({ data }) => {
             Read more
             <FaArrowRightLong />
           </Link>
-          <img src={data.icon} alt="Icon" width={50} />
+          <img loading="lazy" src={data.icon} alt="Icon" width={50} />
         </div>
       </div>
     </>

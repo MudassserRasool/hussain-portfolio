@@ -59,7 +59,13 @@ const BackgroundNumberedCard = ({ key, data = {} }) => {
           </div>
         </div>
         <div className="w-90 ">
-          <img className="size-100 " width={3000} src={data.image} alt="pc" />
+          <img
+            loading="lazy"
+            className="size-100 "
+            width={3000}
+            src={data.image}
+            alt="pc"
+          />
         </div>
       </div>
     </div>

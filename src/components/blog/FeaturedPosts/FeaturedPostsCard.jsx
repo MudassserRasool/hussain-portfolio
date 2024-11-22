@@ -4,7 +4,12 @@ const FeaturedPostsCard = ({ featuredBlog }) => {
   return (
     <div className="flex flex-row mb-2">
       <div>
-        <img className="w-40" src={featuredBlog.image} alt="work" />
+        <img
+          loading="lazy"
+          className="w-40"
+          src={featuredBlog.image}
+          alt="work"
+        />
       </div>
       <div className="flex flex-col ml-4">
         <div className="w-32 text-base font-normal">{featuredBlog.title}</div>

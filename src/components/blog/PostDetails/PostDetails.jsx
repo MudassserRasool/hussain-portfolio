@@ -6,6 +6,7 @@ const PostDetails = ({ postDetails }) => {
       <div>
         <p className="w-64 font-medium text-xl mb-4">{postDetails.title}</p>
         <img
+          loading="lazy"
           width={600}
           className=" mb-8"
           src={postDetails.image}

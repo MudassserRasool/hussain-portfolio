@@ -13,6 +13,7 @@ const EmployeeCard = ({ employee }) => {
     >
       <div className="h-68 overflow-hidden">
         <img
+          loading="lazy"
           className="h-full w-full object-cover"
           src={employee.image}
           alt="person"
