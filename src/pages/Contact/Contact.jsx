@@ -6,6 +6,7 @@ import { MdOutlineMailOutline, MdOutlinePhone } from 'react-icons/md';
 import { toast } from 'react-toastify';
 import InputField from '../../components/common/InputField/InputField';
 import Button from '../../components/common/buttons/Button/Button';
+import DropdownField from '../../components/common/dropdowns/Dropdown/DropdownField';
 import {
   contactTemplateId,
   publicKey,
@@ -13,7 +14,7 @@ import {
   serviceId,
 } from '../../constants';
 import company from '../../constants/company';
-import { isValidEmail, isValidPhoneNumber } from '../../utils/helper';
+import { isValidEmail } from '../../utils/helper';
 import SalaryRangeSlider from './SalaryRangeSlider';
 
 const Contact = () => {
@@ -22,6 +23,7 @@ const Contact = () => {
     name: '',
     email: '',
     phone: '',
+    role: '',
     company: '',
     message: '',
   });
@@ -41,6 +43,9 @@ const Contact = () => {
 
   const handleSubmitForm = async (e) => {
     e.preventDefault();
+
+    console.log(e.target);
+    // return;
     if (
       formData.name === '' ||
       formData.email === '' ||
@@ -59,10 +64,10 @@ const Contact = () => {
       toast.error('Please enter a valid email address');
       return;
     }
-    if (!isValidPhoneNumber(formData.phone)) {
-      toast.error('Please enter a valid phone number');
-      return;
-    }
+    // if (!isValidPhoneNumber(formData.phone)) {
+    //   toast.error('Please enter a valid phone number');
+    //   return;
+    // }
 
     try {
       const response = await emailjs.sendForm(
@@ -78,6 +83,7 @@ const Contact = () => {
         phone: '',
         company: '',
         message: '',
+        role: '',
       });
       setServiceState('');
     } catch (error) {
@@ -85,6 +91,17 @@ const Contact = () => {
     }
   };
   const isMobile = window.innerHeight <= 786;
+
+  const handleDropdownChange = (value) => {
+    setFormData({ ...formData, role: value });
+  };
+
+  const options = [
+    { value: '', label: 'Select Role' },
+    { value: 'client', label: 'Client' },
+    { value: 'employee', label: ' Employee' },
+    { value: 'other', label: 'Other' },
+  ];
   return (
     <>
       <div className="container mx-auto flex md:items-center   md:justify-center mt-20">
@@ -164,6 +181,20 @@ const Contact = () => {
                     isCompulsory={true}
                     type="number"
                   />
+                  {/* Add dropdown to select role */}
+                  <DropdownField
+                    label="Select your role"
+                    name="customDropdown"
+                    options={options}
+                    value={formData.role}
+                    onChange={handleDropdownChange}
+                    placeholder="Select your role"
+                    isCompulsory={true}
+                    width={250}
+                    color="#f8f9fa"
+                    textColor="#333"
+                  />
+                  <input type="hidden" name="from_role" value={formData.role} />
                 </div>
                 <input type="hidden" name="service" value={serviceState} />
 
